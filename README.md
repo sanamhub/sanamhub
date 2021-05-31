@@ -18,7 +18,7 @@
 
 - 💪 I’m currently advancing JavaScript
 
-- 💬 Ask me about anything, I am happy to help
+- 💌 Ask me about anything, I am happy to help
 
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
 
