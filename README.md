@@ -1,12 +1,3 @@
-<!--
-<h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;
-  <a target="_blank">
-    <img src="https://github.com/sanamhub/sanamhub/blob/main/assets/gif/hi.gif" width="40px" />
-  </a>
-</h1>
--->
-
 <p align="center">
   <img src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/dev.svg" height="200"/>
 </p>
@@ -22,7 +13,7 @@
   <h3>I'm self-taught full-stack developer from Nepal</h3>
 </p>
 
-- 🚀 I'm DBA | Developer | Learner
+- 🚀 I'm DBA • Developer • Explorer...
 - ❤️ My favorite language: SQL
 - 💪 I’m currently advancing JavaScript
 - 💬 Ask me about anything, I am happy to help
