@@ -7,17 +7,20 @@
 
 <img align="right" height="300px" width="320px" alt="GIF" src="https://github.com/sanamhub/sanamhub/blob/main/assets/webp/admin.webp" />
 
-</br>
-
 <p align="center">
   <h3>I'm self-taught full-stack developer from Nepal</h3>
 </p>
 
 - 🚀 I'm DBA • Developer • Explorer...
+
 - ❤️ My favorite language: SQL
+
 - 💪 I’m currently advancing JavaScript
+
 - 💬 Ask me about anything, I am happy to help
+
 - 💌 How to reach me: whois.sanam@gmail.com
+
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
 
 </br>
