@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/dev.svg" height="200"/>
 </p>
-<h4 align="center">I'm grouping 1's and 0's in correct order and I don’t trust people who don’t write SQL queries in uppercase! 😄</h4>
+<h4 align="center">I'm grouping 1's and 0's in correct order. Also, I don’t trust people who don’t write SQL queries in uppercase! 😄</h4>
 
 </br>
 
