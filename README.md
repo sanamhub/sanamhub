@@ -4,14 +4,18 @@
 <h4 align="center">I'm grouping 1's and 0's in correct order and I don’t trust people who don’t write SQL queries in uppercase 😁</h4>
 
 <br>
+<br>
 
 <img align="right" height="300px" width="320px" alt="GIF" src="https://github.com/sanamhub/sanamhub/blob/main/assets/webp/admin.webp" />
 
+<br>
 <br>
 
 <p align="center">
   <h3>I'm self-taught full-stack developer from Nepal</h3>
 </p>
+
+<br>
 
 - 🚀 I'm DBA • Developer • Explorer...
 - ❤️ My favorite language: SQL
@@ -21,10 +25,13 @@
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
 
 <br>
+<br>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=react-dark&hide_border=true)
 
 ### Tech stacks... 🚀
+
+<br>
 
 <p align="center">
     <!-- HTML -->
