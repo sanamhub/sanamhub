@@ -1,17 +1,18 @@
 <p align="center">
   <img src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/dev.svg" height="200"/>
 </p>
-<h4 align="center">I'm grouping 1's and 0's in correct order. Also, I don’t trust people who don’t write SQL queries in uppercase! 😄</h4>
 
 </br>
 
+<p align="right">
 <img align="right" height="300px" width="320px" alt="GIF" src="https://github.com/sanamhub/sanamhub/blob/main/assets/webp/admin.webp" />
+</p>
 
-<p align="center">
+<p align="left">
   <h3>I'm self-taught full-stack developer from Nepal</h3>
 </p>
 
-- 🚀 I'm DBA • Developer • Explorer...
+- 🚀 I'm DBA • Developer • Explorer 🚀
 
 - ❤️ My favorite language: SQL
 
@@ -19,9 +20,9 @@
 
 - 💬 Ask me about anything, I am happy to help
 
-- 💌 How to reach me: whois.sanam@gmail.com
-
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
+
+- 😮 Also, I don’t trust people who don’t write SQL queries in uppercase! 😆
 
 </br>
 </br>
