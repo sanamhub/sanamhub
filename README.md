@@ -8,9 +8,6 @@
 
 <img align="right" height="300px" width="320px" alt="GIF" src="https://github.com/sanamhub/sanamhub/blob/main/assets/webp/admin.webp" />
 
-<br>
-<br>
-
 <p align="center">
   <h3>I'm self-taught full-stack developer from Nepal</h3>
 </p>
