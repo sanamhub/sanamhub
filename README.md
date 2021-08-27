@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/dev.svg" height="200"/>
-</p>
-
-</br>
-
 <p align="right">
 <img align="right" height="300px" width="320px" alt="GIF" src="https://github.com/sanamhub/sanamhub/blob/main/assets/webp/admin.webp" />
 </p>
