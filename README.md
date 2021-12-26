@@ -31,15 +31,15 @@
 <br>
 
 <p align="center">
- <img width="10%" style="padding:5px" src="./assets/svg/html.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/css.svg"/>
+ <img width="10%" height="95px" style="padding:5px" src="./assets/svg/html.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/js.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/cs.svg"/>
- <img width="10%" height="80px" style="padding:5px" src="./assets/svg/dotnet.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/mssql.svg"/>
+ <img width="12%" height="100px" style="padding:5px" src="./assets/svg/dotnet.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/dv.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/pbi.svg"/>
+ <img width="10%" height="95px" style="padding:5px" src="./assets/svg/css.svg"/>
 </p>
 
 </br>
