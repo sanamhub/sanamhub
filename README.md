@@ -1,5 +1,5 @@
 <p align="right">
-<img align="right" height="300px" width="320px" alt="GIF" src="https://github.com/sanamhub/sanamhub/blob/main/assets/webp/admin.webp" />
+<img align="right" height="300px" width="320px" alt="GIF" src="./assets/gif/gif.gif" />
 </p>
 
 <p align="left">
@@ -32,20 +32,13 @@
 <br>
 
 <p align="center">
-    <!-- HTML -->
-	<img width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/html.svg"/>
-    <!-- CSS -->
-	<img width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/css.svg"/>
-    <!-- JavaScript -->
-	<img width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/js.svg"/>
-  <!-- C# -->
-	<img width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/cs.svg"/>
-  <!-- .Net -->
-	<img width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/dotnet.svg"/>
-    <!-- MSSQL -->
-	<img width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/mssql.svg"/>
-  <!-- PosgreSQL -->
-	<img width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/svg/pgsql.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/html.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/css.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/js.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/cs.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/dotnet.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/mssql.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
 </p>
 
 </br>
@@ -63,9 +56,9 @@
 </br>
 
 <p align="center">
-	<a href="https://github.com/sanamhub"><img alt="github" width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/img/github.png"/></a>
-	<a href="https://www.linkedin.com/in/sanampakuwal"><img alt="linkedin" width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/img/linkedin.png"/></a>
-	<a href="https://www.facebook.com/mrsanampakuwal"><img alt="facebook" width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/img/facebook.png"/></a>
-	<a href="https://www.instagram.com/sanampakuwal"><img alt="instagram" width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/img/instagram.png"/></a>
-	<a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="https://github.com/sanamhub/sanamhub/blob/main/assets/img/twitter.png"/></a>
+ <a href="https://github.com/sanamhub"><img alt="github" width="10%" style="padding:5px" src="./assets/img/github.png"/></a>
+ <a href="https://www.linkedin.com/in/sanampakuwal"><img alt="linkedin" width="10%" style="padding:5px" src="./assets/img/linkedin.png"/></a>
+ <a href="https://www.facebook.com/mrsanampakuwal"><img alt="facebook" width="10%" style="padding:5px" src="./assets/img/facebook.png"/></a>
+ <a href="https://www.instagram.com/sanampakuwal"><img alt="instagram" width="10%" style="padding:5px" src="./assets/img/instagram.png"/></a>
+ <a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="./assets/img/twitter.png"/></a>
 </p>
