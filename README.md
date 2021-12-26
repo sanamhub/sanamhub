@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <h3>I'm self-taught full-stack developer from Nepal</h3>
+  <h2>I'm self-taught developer from Nepal</h2>
 </p>
 
 - 🚀 I'm DBA • Developer • Explorer 🚀
@@ -21,7 +21,6 @@
 </br>
 </br>
 </br>
-</br>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=react-dark&hide_border=true)
 
@@ -36,9 +35,11 @@
  <img width="10%" style="padding:5px" src="./assets/svg/css.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/js.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/cs.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/dotnet.svg"/>
+ <img width="10%" height="80px" style="padding:5px" src="./assets/svg/dotnet.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/mssql.svg"/>
  <img width="10%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/dv.svg"/>
+ <img width="10%" style="padding:5px" src="./assets/svg/pbi.svg"/>
 </p>
 
 </br>
