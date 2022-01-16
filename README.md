@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <h2>I'm self-taught developer from Nepal</h2>
+  <h2>Passionate tech enthusiast from Nepal 🚀</h2>
 </p>
 
 - 🚀 I'm DBA • Developer • Explorer 🚀
