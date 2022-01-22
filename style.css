@@ -75,6 +75,11 @@ a {
   /* width: 100px; */
 }
 
+.footer {
+  margin-left: 20%;
+  font-weight: 600;
+}
+
 /* animations / utilities */
 .gradient:hover {
   transition: 1s;
@@ -107,4 +112,25 @@ a {
     padding-left: 1.5rem;
     padding-top: 2rem;
   }
+}
+
+/* ===== Custom Scrollbar ===== */
+/* Firefox */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #473f47 #000000;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #312b31;
+  border-radius: 9px;
 }
