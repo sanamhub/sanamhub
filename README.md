@@ -22,9 +22,6 @@
 </br>
 </br>
 
-![image](https://user-images.githubusercontent.com/31341013/151017064-bcdb99d9-9c4a-4cb9-84fc-90db6d87ed72.png)
-
-
 ![github graph](https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=react-dark&hide_border=true)
 
 </br>
