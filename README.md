@@ -24,7 +24,12 @@
 </br>
 </br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=react-dark&hide_border=true)
+<!-- Activity graph -->
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
+</a>
+</p>
 
 </br>
 
@@ -85,3 +90,10 @@
 <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
 <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
 <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+
+<!-- Streak -->
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
+</a>
+</p>
