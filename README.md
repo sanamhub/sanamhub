@@ -79,3 +79,9 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+
+### Many such things will goes to fun section
+
+<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" /></a>
+<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" /></a>
+<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" /></a>
