@@ -65,3 +65,8 @@
  <a href="https://www.instagram.com/sanampakuwal"><img alt="instagram" width="10%" style="padding:5px" src="./assets/img/instagram.png"/></a>
  <a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="./assets/img/twitter.png"/></a>
 </p>
+
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
