@@ -1,9 +1,25 @@
+<!-- Stand with Ukraine -->
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+<h2>
+Hi there
+<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+</h2>
+<h3>
+I'm Sanam, Full Stack Software Developer from Nepal. I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Engineering!
+</h3>
+<br />
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
+
+<!-- Dancing gif -->
 <p align="right">
 <img align="right" height="300px" width="320px" alt="GIF" src="./assets/gif/gif.gif" />
 </p>
 
+<!-- Personal info -->
 <p align="left">
   <h2>Passionate tech enthusiast from Nepal</h2>
 </p>
@@ -26,8 +42,8 @@
 
 <!-- Activity graph -->
 <p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
+<a href="#">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Sanam's monthly coding activity" />
 </a>
 </p>
 
@@ -72,18 +88,10 @@
 </p>
 
 ### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
+
+(_PS: Refresh the page to see a new meme_ :wink: )
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
-
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Sanam, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
 
 ### Many such things will goes to fun section
 
