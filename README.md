@@ -50,6 +50,8 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 - 😮 Also, I don’t trust people who don’t write SQL queries in uppercase! 😆
 </details>
 
+<br>
+
 <!-- Activity graph -->
 <p align="center">
 <a href="#">
@@ -57,7 +59,11 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 </a>
 </p>
 
+<br>
+
 ### Tech stacks... 🚀
+
+<br>
 
 <p align="center">
  <img width="10%" height="95px" style="padding:5px" src="./assets/svg/html.svg"/>
@@ -71,13 +77,19 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
  <img width="10%" height="95px" style="padding:5px" src="./assets/svg/css.svg"/>
 </p>
 
+<br>
+
 ### Have some fun! 🎉
+
+<br>
 
 <p align="center">
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 </p>
+
+<br>
 
 #### A random meme, Just for you!
 
@@ -88,6 +100,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 </p>
 
+<br>
 
 ### Feel free to connect... 🤝
 
