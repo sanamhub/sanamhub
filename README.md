@@ -101,4 +101,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Eng
 
 (_PS: Refresh the page to see a new meme_ :wink: )
 
+<p align="center">
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+</p>
