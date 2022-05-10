@@ -2,16 +2,18 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+<!-- Greeting and tagline -->
 <h2>
 Hi there
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 </h2>
 <h3>
 I'm Sanam, Full Stack Software Developer from Nepal.
-  
-I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Engineering!
+
+I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!
 </h3>
-<br />
+
+<!-- Coder GIF -->
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
@@ -24,10 +26,12 @@ I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Eng
 </p>
 
 <details><summary>Personal Info Toggle</summary>
+  
 <!-- Dancing gif -->
 <p align="right">
 <img align="right" height="300px" width="320px" alt="GIF" src="./assets/gif/gif.gif" />
 </p>
+
 <!-- Personal info -->
 <p align="left">
   <h2>Passionate tech enthusiast from Nepal</h2>
@@ -44,10 +48,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Eng
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
 
 - 😮 Also, I don’t trust people who don’t write SQL queries in uppercase! 😆
-
-</br>
-</br>
-</br>
 </details>
 
 <!-- Activity graph -->
@@ -57,11 +57,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Eng
 </a>
 </p>
 
-</br>
-
 ### Tech stacks... 🚀
-
-<br>
 
 <p align="center">
  <img width="10%" height="95px" style="padding:5px" src="./assets/svg/html.svg"/>
@@ -85,9 +81,10 @@ I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Eng
 
 #### A random meme, Just for you!
 
+<p align="center">
+
 (_PS: Refresh the page to see a new meme_ :wink: )
 
-<p align="center">
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 </p>
 
