@@ -1,12 +1,33 @@
+<!-- Stand with Ukraine -->
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<p align="right">
-<img align="right" height="300px" width="320px" alt="GIF" src="./assets/gif/gif.gif" />
+<!-- Greeting and tagline -->
+<h2>
+Hi there
+<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+</h2>
+<h3>
+I'm Sanam, Full Stack Software Developer from Nepal.
+
+I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!
+</h3>
+
+<!-- Coder GIF -->
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-<p align="left">
-  <h2>Passionate tech enthusiast from Nepal</h2>
+<!-- Beautiful Streak -->
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
+</a>
 </p>
+
+<details><summary>GitHub Default Info! 💁</summary>
+
+<!-- Personal info -->
 
 - 🚀 I'm DBA • Developer • Explorer 🚀
 
@@ -18,15 +39,21 @@
 
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
 
+- 📧 Quote: You only need to find yourself, everything else can be googled 👨‍💻
+  
 - 😮 Also, I don’t trust people who don’t write SQL queries in uppercase! 😆
+</details>
 
-</br>
-</br>
-</br>
+<br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=react-dark&hide_border=true)
+<!-- Activity graph -->
+<p align="center">
+<a href="#">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Sanam's monthly coding activity" />
+</a>
+</p>
 
-</br>
+<br>
 
 ### Tech stacks... 🚀
 
@@ -44,19 +71,31 @@
  <img width="10%" height="95px" style="padding:5px" src="./assets/svg/css.svg"/>
 </p>
 
-</br>
+<br>
 
-### Here's a joke for you... 😉
+### Have some fun! 🎉
 
-</br>
+<br>
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes" />
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 </p>
 
-### Feel free to connect... 🤝
+<br>
 
-</br>
+#### A random meme, Just for you!
+
+(_PS: Refresh the page to see a new meme_ :wink: )
+
+<p align="center">
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+</p>
+
+<br>
+
+### Feel free to connect... 🤝
 
 <p align="center">
  <a href="https://github.com/sanamhub"><img alt="github" width="10%" style="padding:5px" src="./assets/img/github.png"/></a>
@@ -65,17 +104,3 @@
  <a href="https://www.instagram.com/sanampakuwal"><img alt="instagram" width="10%" style="padding:5px" src="./assets/img/instagram.png"/></a>
  <a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="./assets/img/twitter.png"/></a>
 </p>
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
-
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Sanam, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
