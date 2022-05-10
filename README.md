@@ -19,8 +19,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
 </p>
 
-<br>
-
 <!-- Beautiful Streak -->
 <p align="center">
 <a href="#go-nowhere">
@@ -62,15 +60,15 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br>
 
 <p align="center">
- <img width="10%" height="95px" style="padding:5px" src="./assets/svg/html.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/js.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/cs.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/mssql.svg"/>
- <img width="12%" height="100px" style="padding:5px" src="./assets/svg/dotnet.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/dv.svg"/>
- <img width="10%" style="padding:5px" src="./assets/svg/pbi.svg"/>
- <img width="10%" height="95px" style="padding:5px" src="./assets/svg/css.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/html.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/js.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/cs.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/mssql.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/dotnet.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/dv.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/pbi.svg"/>
+ <img width="7%" style="padding:5px" src="./assets/svg/css.svg"/>
 </p>
 
 <br>
