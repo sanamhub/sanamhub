@@ -25,17 +25,9 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 </a>
 </p>
 
-<details><summary>Personal Info Toggle</summary>
-  
-<!-- Dancing gif -->
-<p align="right">
-<img align="right" height="300px" width="320px" alt="GIF" src="./assets/gif/gif.gif" />
-</p>
+<details><summary>Personal Info! 💁</summary>
 
 <!-- Personal info -->
-<p align="left">
-  <h2>Passionate tech enthusiast from Nepal</h2>
-</p>
 
 - 🚀 I'm DBA • Developer • Explorer 🚀
 
@@ -47,6 +39,8 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
 
+- 📧 Quote: You only need to find yourself, everything else can be googled 👨‍💻
+  
 - 😮 Also, I don’t trust people who don’t write SQL queries in uppercase! 😆
 </details>
 
