@@ -19,6 +19,8 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
 </p>
 
+<br>
+
 <!-- Beautiful Streak -->
 <p align="center">
 <a href="#go-nowhere">
