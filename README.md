@@ -8,11 +8,8 @@ Hi there
 <img src="./assets/gif/wave.gif" width="30">
 </h1>
 
-<h2>
-I'm Sanam, Full Stack Software Developer from Nepal.
-</h2>
-
 <h3>
+I'm Sanam, Full Stack Software Developer from Nepal.
 I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!
 </h3>
 
