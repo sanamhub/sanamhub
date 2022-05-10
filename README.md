@@ -3,15 +3,17 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <!-- Greeting and tagline -->
-<h2>
+<h1>
 Hi there
-<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-</h2>
-<h3>
+<img src="./assets/gif/wave.gif" width="30">
+</h1>
+
+<h2>
 I'm Sanam, Full Stack Software Developer from Nepal.
+</h2>
 
+<h3>
 I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!
-
 </h3>
 
 <!-- Coder GIF -->
@@ -19,10 +21,12 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
 </p>
 
+<b />
+
 <!-- Beautiful Streak -->
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="sanamhub's streak" />
 </a>
 </p>
 
@@ -60,15 +64,15 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br>
 
 <p align="center">
- <img width="7%" style="padding:5px" src="./assets/svg/html.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/js.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/cs.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/mssql.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/dotnet.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/dv.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/pbi.svg"/>
- <img width="7%" style="padding:5px" src="./assets/svg/css.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/html.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/js.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/cs.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/mssql.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/dotnet.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/dv.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/pbi.svg"/>
+ <img width="9%" style="padding:5px" src="./assets/svg/css.svg"/>
 </p>
 
 <br>
@@ -78,9 +82,9 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
+<img src="./assets/gif/rickroll.gif" width="250" height="auto" />
+<img src="./assets/gif/rickroll.gif" width="250" height="auto" />
+<img src="./assets/gif/rickroll.gif" width="250" height="auto" />
 </p>
 
 <br>
