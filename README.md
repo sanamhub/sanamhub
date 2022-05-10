@@ -25,7 +25,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 </a>
 </p>
 
-<details><summary>Personal Info! 💁</summary>
+<details><summary>GitHub Default Info! 💁</summary>
 
 <!-- Personal info -->
 
