@@ -11,11 +11,12 @@ Hi there
 I'm Sanam, Full Stack Software Developer from Nepal.
 
 I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!
+
 </h3>
 
 <!-- Coder GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
 </p>
 
 <!-- Beautiful Streak -->
@@ -40,7 +41,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 - ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
 
 - 📧 Quote: You only need to find yourself, everything else can be googled 👨‍💻
-  
 - 😮 Also, I don’t trust people who don’t write SQL queries in uppercase! 😆
 </details>
 
