@@ -87,9 +87,11 @@
 
 ### Many such things will goes to fun section
 
-<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
-<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
-<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
+<p align="center">
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
+</p>
 
 <!-- Streak -->
 <p align="center">
