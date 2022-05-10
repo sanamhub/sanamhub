@@ -7,7 +7,9 @@ Hi there
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 </h2>
 <h3>
-I'm Sanam, Full Stack Software Developer from Nepal. I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Engineering!
+I'm Sanam, Full Stack Software Developer from Nepal.
+  
+I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Engineering!
 </h3>
 <br />
 <p align="center">
@@ -87,16 +89,16 @@ I'm Sanam, Full Stack Software Developer from Nepal. I'm specialized in FinTech,
  <a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="./assets/img/twitter.png"/></a>
 </p>
 
-### Here is a random meme for you, to make your day better
-
-(_PS: Refresh the page to see a new meme_ :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
-
-### Many such things will goes to fun section
+### Have some fun! 🎉
 
 <p align="center">
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 </p>
+
+#### A random meme, Just for you!
+
+(_PS: Refresh the page to see a new meme_ :wink: )
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
