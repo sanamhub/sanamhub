@@ -75,20 +75,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Eng
  <img width="10%" height="95px" style="padding:5px" src="./assets/svg/css.svg"/>
 </p>
 
-</br>
-
-### Feel free to connect... 🤝
-
-</br>
-
-<p align="center">
- <a href="https://github.com/sanamhub"><img alt="github" width="10%" style="padding:5px" src="./assets/img/github.png"/></a>
- <a href="https://www.linkedin.com/in/sanampakuwal"><img alt="linkedin" width="10%" style="padding:5px" src="./assets/img/linkedin.png"/></a>
- <a href="https://www.facebook.com/mrsanampakuwal"><img alt="facebook" width="10%" style="padding:5px" src="./assets/img/facebook.png"/></a>
- <a href="https://www.instagram.com/sanampakuwal"><img alt="instagram" width="10%" style="padding:5px" src="./assets/img/instagram.png"/></a>
- <a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="./assets/img/twitter.png"/></a>
-</p>
-
 ### Have some fun! 🎉
 
 <p align="center">
@@ -103,4 +89,15 @@ I'm specialized in FinTech, .NET Technologies, Web Development, SQL, Data/QA Eng
 
 <p align="center">
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+</p>
+
+
+### Feel free to connect... 🤝
+
+<p align="center">
+ <a href="https://github.com/sanamhub"><img alt="github" width="10%" style="padding:5px" src="./assets/img/github.png"/></a>
+ <a href="https://www.linkedin.com/in/sanampakuwal"><img alt="linkedin" width="10%" style="padding:5px" src="./assets/img/linkedin.png"/></a>
+ <a href="https://www.facebook.com/mrsanampakuwal"><img alt="facebook" width="10%" style="padding:5px" src="./assets/img/facebook.png"/></a>
+ <a href="https://www.instagram.com/sanampakuwal"><img alt="instagram" width="10%" style="padding:5px" src="./assets/img/instagram.png"/></a>
+ <a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="./assets/img/twitter.png"/></a>
 </p>
