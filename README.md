@@ -14,11 +14,18 @@ I'm Sanam, Full Stack Software Developer from Nepal. I'm specialized in FinTech,
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
+<!-- Beautiful Streak -->
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
+</a>
+</p>
+
+<details><summary>Personal Info Toggle</summary>
 <!-- Dancing gif -->
 <p align="right">
 <img align="right" height="300px" width="320px" alt="GIF" src="./assets/gif/gif.gif" />
 </p>
-
 <!-- Personal info -->
 <p align="left">
   <h2>Passionate tech enthusiast from Nepal</h2>
@@ -39,6 +46,7 @@ I'm Sanam, Full Stack Software Developer from Nepal. I'm specialized in FinTech,
 </br>
 </br>
 </br>
+</details>
 
 <!-- Activity graph -->
 <p align="center">
@@ -67,14 +75,6 @@ I'm Sanam, Full Stack Software Developer from Nepal. I'm specialized in FinTech,
 
 </br>
 
-### Here's a joke for you... 😉
-
-</br>
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes" />
-</p>
-
 ### Feel free to connect... 🤝
 
 </br>
@@ -99,11 +99,4 @@ I'm Sanam, Full Stack Software Developer from Nepal. I'm specialized in FinTech,
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
 <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" />
-</p>
-
-<!-- Streak -->
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
-</a>
 </p>
