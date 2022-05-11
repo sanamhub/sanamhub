@@ -5,8 +5,9 @@
 <!-- Greeting and tagline -->
 <h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1>
 
-<h3>I'm Sanam, Full Stack Software Developer from Nepal.</h3>
-<h4>I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h4>
+<h3>I'm Sanam, Full Stack Software Developer from Nepal.
+
+I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h3>
 
 <!-- Coder GIF -->
 <p align="center">
@@ -33,66 +34,34 @@
 
 <br>
 
-### Tech stacks... 🚀
+### Tech stacks 🚀
 
-#### Language
+**Language and technologies**
 
-| HTML                           | CSS                           | JS                           | C#                           | PowerShell                           | SQL                           |
-| ------------------------------ | ----------------------------- | ---------------------------- | ---------------------------- | ------------------------------------ | ----------------------------- |
-| ![html](./assets/svg/html.svg) | ![html](./assets/svg/css.svg) | ![html](./assets/svg/js.svg) | ![html](./assets/svg/cs.svg) | ![html](./assets/svg/PowerShell.svg) | ![html](./assets/img/sql.png) |
+| <img title="C" alt="C" width="50px" src="./assets/svg/lang/c.svg" /> | <img alt="C#" title="C#" width="40px" src="./assets/svg/lang/cs.svg"> | <img title="SQL" alt="SQL" width="40px" src="./assets/svg/lang/sql.svg"> | <img title="PowerShell" alt="PowerShell" width="40px" src="./assets/svg/lang/powershell.svg"> | <img title="HTML" alt="HTML" width="40px" src="./assets/svg/lang/html.svg"> | <img title="CSS" alt="CSS" width="40px" src="./assets/svg/lang/css.svg"> | <img title="JS" alt="JS" width="40px" src="./assets/svg/lang/js.svg"> | <img title="TS" alt="TS" width="40px" src="./assets/svg/lang/ts.svg"> |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
 
-<p align="center">
-<a href="#"><img src="./assets/svg/html.svg" alt="github" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/css.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/js.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/cs.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/mssql.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/dotnet.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/pgsql.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/dv.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/pbi.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+**Database and analytics**
 
-#### Framework
+| <img title="DB" alt="DB" width="40px" src="./assets/svg/db/db.svg" /> | <img title="SQL Server" alt="SQL Server" width="40px" src="./assets/svg/db/mssql.svg" /> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="./assets/svg/db/pgsql.svg" /> | <img title="Access" alt="Access" width="40px" src="./assets/svg/db/access.svg" /> | <img title="Redis" alt="Redis" width="40px" src="./assets/svg/db/redis.svg" /> | <img title="PowerBI" alt="PowerBI" width="40px" src="./assets/svg/db/powerbi.svg" /> | <img title="Excel" alt="Excel" width="40px" src="./assets/svg/db/excel.svg" /> |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 
-| ASP.NET                            | React                             | Sass                             | jQuery                             |
-| ---------------------------------- | --------------------------------- | -------------------------------- | ---------------------------------- |
-| ![dotnet](./assets/svg/aspnet.svg) | ![dotnet](./assets/svg/react.svg) | ![dotnet](./assets/svg/sass.svg) | ![dotnet](./assets/svg/jquery.svg) |
+**Utilities**
 
-#### Design
+| <img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> | <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> | <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> | <img title="Visual Studio" alt="Visual Studio" width="40px" src="./assets/svg/utilities/git.svg" /> | <img title="git" alt="git" width="40px" src="./assets/svg/utilities/vs.svg" /> | <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> | <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" /> |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
-#### Automation
+**Library and frameworks**
 
-#### Analysis
+| <img title=".NET" alt=".NET" width="40px" src="./assets/svg/lib/dotnet.svg" /> | <img title="C" alt="C" width="40px" src="./assets/svg/lib/react.svg" /> | <img title="jQuery" alt="jQuery" width="40px" src="./assets/svg/lib/jquery.svg" /> | <img title="Cypress" alt="Cypress" width="40px" src="./assets/svg/lib/cypress.svg" /> | <img title="Playwright" alt="Playwright" width="40px" src="./assets/svg/lib/playwright.svg" /> | <img title="Sass" alt="Sass" width="40px" src="./assets/svg/lib/sass.svg" /> |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 
-<br>
+**Design**
 
-**Programming Languages**
+| <img title="Figma" alt="Figma" width="40px" src="./assets/svg/design/figma.svg" /> | <img title="Photoshop" alt="Photoshop" width="40px" src="./assets/svg/design/photoshop.svg" /> | <img title="PremierPro" alt="PremierPro" width="40px" src="./assets/svg/design/premierpro.svg" /> |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 
-| <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-
-**Libraries and Frameworks**
-
-| <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"> | <img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png"> | <img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"> | <img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">     | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">                     | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">                | <img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">                         | <img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> | <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">          |
-
-**Cloud**
-
-| <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"> | <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png"> |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-
-**Databases**
-
-| <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> | <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br> |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-**Tools**
-
-| <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"> | <img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"> | <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> | <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"> |
-| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<br>
+<br />
 
 ### Have some fun! 🎉
 
@@ -111,11 +80,13 @@
 (_PS: Refresh the page to see a new meme_ :wink: )
 
 <p align="center">
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="#"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 </p>
 
-<br>
+<br />
 
-### Feel free to connect... 🤝
+### Connect with me via 🤝
 
-<h3 align="center"> <a href="https://github.com/sanamhub">GitHub</a> · <a href="https://gitlab.com/sanampakuwal">GitLab</a> · <a href="https://stephenajulu.com/blog">Blog</a> · <a href="https://stephenajulu.com/store">Store</a> · <a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">Donate</a> · <a href="https://stephenajulu.substack.com">Newsletter</a></h3>
+<h3 align="center">
+<a href="mailto: sanam@sanampakuwal.com.np">Email</a> · <a href="mailto: sanampakuwal27@gmail.com">Gmail</a> · <a href="https://github.com/sanamhub">GitHub</a> · <a href="https://gitlab.com/sanampakuwal">GitLab</a> · <a href="https://www.linkedin.com/in/sanampakuwal/">LinkedIn</a> · <a href="https://t.me/sanampakuwal">Telegram</a> · <a href="https://www.facebook.com/mrsanampakuwal">Facebook</a> · <a href="https://www.instagram.com/sanampakuwal/">Instagram</a> · <a href="https://twitter.com/sanampakuwal">Twitter</a>
+</h3>
