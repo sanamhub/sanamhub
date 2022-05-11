@@ -56,7 +56,7 @@
 
 | .NET                               | React                             | Sass                             | jQuery                             |
 | ---------------------------------- | --------------------------------- | -------------------------------- | ---------------------------------- |
-| ![dotnet](./assets/svg/dotnet.svg) | ![dotnet](./assets/svg/react.svg) | ![dotnet](./assets/svg/sass.svg) | ![dotnet](./assets/svg/jquery.svg) |
+| ![dotnet](./assets/svg/aspnet.svg) | ![dotnet](./assets/svg/react.svg) | ![dotnet](./assets/svg/sass.svg) | ![dotnet](./assets/svg/jquery.svg) |
 
 #### Design
 
