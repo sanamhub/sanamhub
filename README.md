@@ -87,11 +87,11 @@
 ### Feel free to connect... 🤝
 
 <p align="center">
-<a href="#"><img src="./assets/svg/github.svg" alt="github" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/gitlab.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/linkedin.svg" alt="linkedin" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/telegram.svg" alt="telegram" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/facebook.svg" alt="facebook" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/instagram.svg" alt="instagram" width="7%" style="padding:5px" /></a>
-<a href="#"><img src="./assets/svg/twitter.svg" alt="twitter" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/github.svg" alt="github" width="7%" style="padding-right: 15px;" /></a>
+<a href="#"><img src="./assets/svg/gitlab.svg" alt="gitlab" width="7%" style="padding-right: 15px" /></a>
+<a href="#"><img src="./assets/svg/linkedin.svg" alt="linkedin" width="7%" style="padding-right: 15px" /></a>
+<a href="#"><img src="./assets/svg/telegram.svg" alt="telegram" width="7%" style="padding-right: 15px" /></a>
+<a href="#"><img src="./assets/svg/facebook.svg" alt="facebook" width="7%" style="padding-right: 15px" /></a>
+<a href="#"><img src="./assets/svg/instagram.svg" alt="instagram" width="7%" style="padding-right: 15px" /></a>
+<a href="#"><img src="./assets/svg/twitter.svg" alt="twitter" width="7%" /></a>
 </p>
