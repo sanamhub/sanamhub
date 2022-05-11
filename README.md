@@ -37,6 +37,34 @@
 
 <br>
 
+#### Language
+
+<table align="center">
+<thead>
+<tr>
+<td>HTML</td>
+<td>CSS</td>
+<td>JS</td>
+</tr>
+</thead>
+</tbody>
+<tr>
+<td>
+<img src="./assets/svg/html.svg" alt="github" />
+</td>
+<td>
+<img src="./assets/svg/css.svg" alt="github" />
+</td>
+<td>
+<img src="./assets/svg/js.svg" alt="github" />
+</td>
+</tr>
+</table>
+
+| HTML                                                                 | CSS                                                                 |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img src="./assets/svg/html.svg" alt="github" style="padding:5px" /> | <img src="./assets/svg/css.svg" alt="github" style="padding:5px" /> |
+
 <p align="center">
 <a href="#"><img src="./assets/svg/html.svg" alt="github" width="7%" style="padding:5px" /></a>
 <a href="#"><img src="./assets/svg/css.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
@@ -47,6 +75,14 @@
 <a href="#"><img src="./assets/svg/pgsql.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
 <a href="#"><img src="./assets/svg/dv.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
 <a href="#"><img src="./assets/svg/pbi.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+
+#### Framework
+
+#### Design
+
+#### Automation
+
+#### Analysis
 
 <br>
 
