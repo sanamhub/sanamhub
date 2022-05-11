@@ -35,13 +35,11 @@
 
 ### Tech stacks... 🚀
 
-<br>
-
 #### Language
 
-| HTML                                                                     | CSS                                                                    | JS                                                                   | C#                                                                   | SQL                                                                    | PowerShell                                                                    |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="./assets/svg/html.svg" alt="html" width="50%" height="100%" /> | <img src="./assets/svg/css.svg" alt="css" width="50%" height="100%" /> | <img src="./assets/svg/js.svg" alt="js" width="50%" height="100%" /> | <img src="./assets/svg/cs.svg" alt="c#" width="50%" height="100%" /> | <img src="./assets/img/sql.png" alt="sql" width="30%" height="100%" /> | <img src="./assets/svg/PowerShell.svg" alt="sql" width="50%" height="100%" /> |
+| HTML                                                                     | CSS                                                                    | JS                                                                   | C#                                                                   | PowerShell                                                                    | SQL                                                                    |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| <img src="./assets/svg/html.svg" alt="html" width="50%" height="100%" /> | <img src="./assets/svg/css.svg" alt="css" width="50%" height="100%" /> | <img src="./assets/svg/js.svg" alt="js" width="50%" height="100%" /> | <img src="./assets/svg/cs.svg" alt="c#" width="50%" height="100%" /> | <img src="./assets/svg/PowerShell.svg" alt="sql" width="50%" height="100%" /> | <img src="./assets/img/sql.png" alt="sql" width="30%" height="100%" /> |
 
 <p align="center">
 <a href="#"><img src="./assets/svg/html.svg" alt="github" width="7%" style="padding:5px" /></a>
