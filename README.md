@@ -54,7 +54,7 @@
 
 #### Framework
 
-| .NET                               | React                             | Sass                             | jQuery                             |
+| ASP.NET                            | React                             | Sass                             | jQuery                             |
 | ---------------------------------- | --------------------------------- | -------------------------------- | ---------------------------------- |
 | ![dotnet](./assets/svg/aspnet.svg) | ![dotnet](./assets/svg/react.svg) | ![dotnet](./assets/svg/sass.svg) | ![dotnet](./assets/svg/jquery.svg) |
 
