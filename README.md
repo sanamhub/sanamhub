@@ -61,11 +61,17 @@
 </tr>
 </table>
 
-
-| HTML                                                                             | CSS                                                                             | JS                                                                             |
+| HTML | CSS | JS |
+C# | SQL Server |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img src="./assets/svg/html.svg" alt="github" width="17%" style="padding:5px" /> | <img src="./assets/svg/css.svg" alt="github" width="17%" style="padding:5px" /> | <img src="./assets/svg/js.svg" alt="github" width="17%" style="padding:5px" /> |
+------------------------------------------------------------------------------ |
+| <img src="./assets/svg/html.svg" alt="github" width="17%" style="padding:5px" />
+| <img src="./assets/svg/css.svg" alt="github" width="17%" style="padding:5px" />
+| <img src="./assets/svg/js.svg" alt="js" width="17%" style="padding:5px" />
+| <img src="./assets/svg/cs.svg" alt="cs" width="17%" style="padding:5px" />
+| <img src="./assets/svg/mssql.svg" alt="mssql" width="17%" style="padding:5px" />
 
+|
 
 <p align="center">
 <a href="#"><img src="./assets/svg/html.svg" alt="github" width="7%" style="padding:5px" /></a>
