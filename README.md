@@ -54,9 +54,9 @@
 
 #### Framework
 
-| .NET                                | React                                                                      | Sass                                                                     | jQuery                                                                       |
-| ----------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| <![dotnet](./assets/svg/dotnet.svg) | <img src="./assets/svg/react.svg" alt="react" width="50%" height="100%" /> | <img src="./assets/svg/sass.svg" alt="sass" width="60%" height="100%" /> | <img src="./assets/svg/jquery.svg" alt="jquery" width="60%" height="100%" /> |
+| .NET                               | React                             | Sass                             | jQuery                             |
+| ---------------------------------- | --------------------------------- | -------------------------------- | ---------------------------------- |
+| ![dotnet](./assets/svg/dotnet.svg) | ![dotnet](./assets/svg/react.svg) | ![dotnet](./assets/svg/sass.svg) | ![dotnet](./assets/svg/jquery.svg) |
 
 #### Design
 
