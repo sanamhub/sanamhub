@@ -1,25 +1,19 @@
 <!-- Stand with Ukraine -->
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![Stand With Ukraine](./assets/svg/stand-with-ukraine.svg)](https://stand-with-ukraine.pp.ua/)
 
 <!-- Greeting and tagline -->
-<h1>
-Hi there
-<img src="./assets/gif/wave.gif" width="30">
-</h1>
+<h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1>
 
-<h3>
-I'm Sanam, Full Stack Software Developer from Nepal.
- 
-I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!
-</h3>
+<h3>I'm Sanam, Full Stack Software Developer from Nepal.</h3>
+<h4>I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h4>
 
 <!-- Coder GIF -->
 <p align="center">
 <img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
 </p>
 
-<b />
+<br />
 
 <!-- Beautiful Streak -->
 <p align="center">
@@ -28,25 +22,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 </a>
 </p>
 
-<details><summary>GitHub Default Info! 💁</summary>
-
-<!-- Personal info -->
-
-- 🚀 I'm DBA • Developer • Explorer 🚀
-
-- ❤️ My favorite language: SQL
-
-- 💪 I’m currently advancing JavaScript
-
-- 💌 Ask me about anything, I am happy to help
-
-- ⚡ Fun fact: I love to go climbing, even though I am afraid of heights 😄
-
-- 📧 Quote: You only need to find yourself, everything else can be googled 👨‍💻
-- 😮 Also, I don’t trust people who don’t write SQL queries in uppercase! 😆
-</details>
-
-<br>
+<br />
 
 <!-- Activity graph -->
 <p align="center">
@@ -62,16 +38,15 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br>
 
 <p align="center">
- <img width="9%" style="padding:5px" src="./assets/svg/html.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/js.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/cs.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/mssql.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/dotnet.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/pgsql.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/dv.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/pbi.svg"/>
- <img width="9%" style="padding:5px" src="./assets/svg/css.svg"/>
-</p>
+<a href="#"><img src="./assets/svg/html.svg" alt="github" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/css.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/js.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/cs.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/mssql.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/dotnet.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/pgsql.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/dv.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/pbi.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
 
 <br>
 
@@ -100,9 +75,11 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 ### Feel free to connect... 🤝
 
 <p align="center">
- <a href="https://github.com/sanamhub"><img alt="github" width="10%" style="padding:5px" src="./assets/img/github.png"/></a>
- <a href="https://www.linkedin.com/in/sanampakuwal"><img alt="linkedin" width="10%" style="padding:5px" src="./assets/img/linkedin.png"/></a>
- <a href="https://www.facebook.com/mrsanampakuwal"><img alt="facebook" width="10%" style="padding:5px" src="./assets/img/facebook.png"/></a>
- <a href="https://www.instagram.com/sanampakuwal"><img alt="instagram" width="10%" style="padding:5px" src="./assets/img/instagram.png"/></a>
- <a href="https://twitter.com/sanampakuwal"><img alt="twitter" width="10%" style="padding:5px" src="./assets/img/twitter.png"/></a>
+<a href="#"><img src="./assets/svg/github.svg" alt="github" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/gitlab.svg" alt="gitlab" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/linkedin.svg" alt="linkedin" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/telegram.svg" alt="telegram" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/facebook.svg" alt="facebook" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/instagram.svg" alt="instagram" width="7%" style="padding:5px" /></a>
+<a href="#"><img src="./assets/svg/twitter.svg" alt="twitter" width="7%" style="padding:5px" /></a>
 </p>
