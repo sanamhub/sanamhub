@@ -39,38 +39,9 @@
 
 #### Language
 
-<table align="center">
-<thead>
-<tr>
-<td>HTML</td>
-<td>CSS</td>
-<td>JS</td>
-</tr>
-</thead>
-</tbody>
-<tr>
-<td>
-<img src="./assets/svg/html.svg" alt="github" />
-</td>
-<td>
-<img src="./assets/svg/css.svg" alt="github" />
-</td>
-<td>
-<img src="./assets/svg/js.svg" alt="github" />
-</td>
-</tr>
-</table>
-
-| HTML | CSS | JS |
-C# | SQL Server |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
------------------------------------------------------------------------------- |
------------------------------------------------------------------------------- |
-| <img src="./assets/svg/html.svg" alt="html" width="17%" style="padding:5px" />
-| <img src="./assets/svg/css.svg" alt="css" width="17%" style="padding:5px" />
-| <img src="./assets/svg/js.svg" alt="js" width="17%" style="padding:5px" />
-| <img src="./assets/svg/cs.svg" alt="cs" width="17%" style="padding:5px" />
-| <img src="./assets/svg/mssql.svg" alt="mssql" width="17%" style="padding:5px" /> |
+| HTML                                                       | CSS                                                      | JS                                                     | C#                                                     | SQLServer                                                    | .NET                                                           | PostgreSQL                                                   | DV                                                     | PowerBI                                                  |
+| ---------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | -------------------------------------------------------- |
+| <img src="./assets/svg/html.svg" alt="html" width="17%" /> | <img src="./assets/svg/css.svg" alt="css" width="17%" /> | <img src="./assets/svg/js.svg" alt="js" width="17%" /> | <img src="./assets/svg/cs.svg" alt="c#" width="17%" /> | <img src="./assets/svg/mssql.svg" alt="mssql" width="17%" /> | <img src="./assets/svg/dotnet.svg" alt="dotnet" width="17%" /> | <img src="./assets/svg/pgsql.svg" alt="pgsql" width="17%" /> | <img src="./assets/svg/dv.svg" alt="dv" width="17%" /> | <img src="./assets/svg/pbi.svg" alt="pbi" width="17%" /> |
 
 <p align="center">
 <a href="#"><img src="./assets/svg/html.svg" alt="github" width="7%" style="padding:5px" /></a>
