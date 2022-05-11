@@ -87,6 +87,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 ### Connect with me via 🤝
 
-<h3 align="center">
+<h4 align="center">
 <a href="mailto: sanam@sanampakuwal.com.np">Email</a> · <a href="mailto: sanampakuwal27@gmail.com">Gmail</a> · <a href="https://github.com/sanamhub">GitHub</a> · <a href="https://gitlab.com/sanampakuwal">GitLab</a> · <a href="https://www.linkedin.com/in/sanampakuwal/">LinkedIn</a> · <a href="https://t.me/sanampakuwal">Telegram</a> · <a href="https://www.facebook.com/mrsanampakuwal">Facebook</a> · <a href="https://www.instagram.com/sanampakuwal/">Instagram</a> · <a href="https://twitter.com/sanampakuwal">Twitter</a>
-</h3>
+</h4>
