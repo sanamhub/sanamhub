@@ -34,6 +34,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br>
 
+<!-- Tech stacks -->
 ### Tech stacks 🚀
 
 **Language and technologies**
@@ -63,6 +64,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
+<!-- Fun section -->
 ### Have some fun! 🎉
 
 <br>
@@ -85,6 +87,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
+<!-- Connect with me -->
 ### Connect with me via 🤝
 
 <h4 align="center">
