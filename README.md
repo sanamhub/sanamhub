@@ -5,6 +5,12 @@
 <!-- Greeting and tagline -->
 <h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1>
 
+<h2 align="center">Hello, World!</h2>
+<br />
+<p align="center">
+<img src="./assets/gif/earth.gif" width="40px">
+</p>
+
 <h3>I'm Sanam, Full Stack Software Developer from Nepal.
 
 I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h3>
