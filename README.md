@@ -6,9 +6,8 @@
 <!-- <h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1> -->
 
 <h3 align="center">Hello, World!</h3>
-<br />
 <p align="center">
-<img src="./assets/gif/earth.gif" width="40px">
+<img src="./assets/gif/earth.gif" width="60">
 </p>
 
 <h3>I'm Sanam, Full Stack Software Developer from Nepal.
