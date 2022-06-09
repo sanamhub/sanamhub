@@ -3,9 +3,9 @@
 [![Stand With Ukraine](./assets/svg/stand-with-ukraine.svg)](https://stand-with-ukraine.pp.ua/)
 
 <!-- Greeting and tagline -->
-<h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1>
+<!-- <h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1> -->
 
-<h2 align="center">Hello, World!</h2>
+<h3 align="center">Hello, World!</h3>
 <br />
 <p align="center">
 <img src="./assets/gif/earth.gif" width="40px">
