@@ -1,6 +1,5 @@
 <!-- Stand with Ukraine -->
-
-[![Stand With Ukraine](./assets/svg/stand-with-ukraine.svg)](https://stand-with-ukraine.pp.ua/)
+<!-- [![Stand With Ukraine](./assets/svg/stand-with-ukraine.svg)](https://stand-with-ukraine.pp.ua/) -->
 
 <!-- Greeting and tagline -->
 <!-- <h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1> -->
