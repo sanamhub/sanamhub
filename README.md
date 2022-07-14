@@ -100,3 +100,13 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <h4 align="center">
 <a href="mailto: sanam@sanampakuwal.com.np">Email</a> · <a href="mailto: sanampakuwal27@gmail.com">Gmail</a> · <a href="https://github.com/sanamhub">GitHub</a> · <a href="https://gitlab.com/sanampakuwal">GitLab</a> · <a href="https://www.linkedin.com/in/sanampakuwal/">LinkedIn</a> · <a href="https://t.me/sanampakuwal">Telegram</a> · <a href="https://www.facebook.com/mrsanampakuwal">Facebook</a> · <a href="https://www.instagram.com/sanampakuwal/">Instagram</a> · <a href="https://twitter.com/sanampakuwal">Twitter</a>
 </h4>
+
+<br />
+
+<!-- Page index -->
+<p>
+  <h4 align="center"><b>I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X</b></h4>
+</p>
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
+</p>
