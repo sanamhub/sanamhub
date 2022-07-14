@@ -36,10 +36,20 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 </a>
 </p>
 
-<br>
+<br />
+
+<!-- Classical stats -->
+### Classical stats ⚡
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=dark" alt="sanam's Github Stats" width="60%">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sanam&layout=compact&count_private=true&show_icons=true&theme=dark" alt="sanam's Github Stats" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=dark" width="37%" alt="Sanam's Top Languages">
+
+<br />
 
 <!-- Tech stacks -->
-
 ### Tech stacks 🚀
 
 **Language and technologies**
@@ -70,7 +80,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br />
 
 <!-- Fun section -->
-
 ### Have some fun! 🎉
 
 <br>
@@ -94,7 +103,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br />
 
 <!-- Connect with me -->
-
 ### Connect with me via 🤝
 
 <h4 align="center">
