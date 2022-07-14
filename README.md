@@ -38,17 +38,6 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- Classical stats -->
-### Classical stats ⚡
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=merko" alt="sanam's Github Stats" width="60%">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sanam&layout=compact&count_private=true&show_icons=true&theme=merko" alt="Sanam's Wakatime Stats" width="60%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=merko" width="37%" alt="Sanam's Top Languages">
-
-<br />
-
 <!-- Tech stacks -->
 ### Tech stacks 🚀
 
@@ -76,6 +65,17 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 | <img title="Figma" alt="Figma" width="40px" src="./assets/svg/design/figma.svg" /> | <img title="Photoshop" alt="Photoshop" width="40px" src="./assets/svg/design/photoshop.svg" /> | <img title="PremierPro" alt="PremierPro" width="40px" src="./assets/svg/design/premierpro.svg" /> |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+
+<br />
+
+<!-- Classical stats -->
+### Classical stats ⚡
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=merko" alt="sanam's Github Stats" width="60%">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sanam&layout=compact&count_private=true&show_icons=true&theme=merko" alt="Sanam's Wakatime Stats" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=merko" width="37%" alt="Sanam's Top Languages">
 
 <br />
 
