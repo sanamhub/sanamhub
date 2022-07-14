@@ -39,6 +39,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br />
 
 <!-- Tech stacks -->
+
 ### Tech stacks 🚀
 
 **Language and technologies**
@@ -69,6 +70,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br />
 
 <!-- Classical stats -->
+
 ### Classical stats ⚡
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=merko" alt="sanam's Github Stats" width="60%">
@@ -80,6 +82,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br />
 
 <!-- Fun section -->
+
 ### Have some fun! 🎉
 
 <br>
@@ -103,6 +106,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <br />
 
 <!-- Connect with me -->
+
 ### Connect with me via 🤝
 
 <h4 align="center">
