@@ -130,3 +130,5 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 </p>
+
+*<sub>This README is night theme compatible</sub>
