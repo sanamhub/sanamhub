@@ -4,23 +4,31 @@
 <!-- Greeting and tagline -->
 <!-- <h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1> -->
 
-<h3 align="center">Hello, World!</h3>
+<!-- <h3 align="center">Hello, World!</h3>
 <p align="center">
-<img src="./assets/gif/earth.gif" width="60">
-</p>
+<img src="./assets/gif/earth.gif" width="60" />
+</p> -->
 
+<!-- hello world gif -->
+<div align="center">
+   <img src="./assets/gif/hello-world.gif" />
+</div>
+
+<br />
+
+<!-- introduction -->
 <h3>I'm Sanam, Full Stack Software Developer from Nepal.
 
 I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h3>
 
-<!-- Coder GIF -->
+<!-- coder gif -->
 <p align="center">
 <img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
 </p>
 
 <br />
 
-<!-- Beautiful Streak -->
+<!-- beautiful streak -->
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="sanamhub's streak" />
@@ -29,7 +37,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- Activity graph -->
+<!-- activity graph -->
 <p align="center">
 <a href="#">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Sanam's monthly coding activity" />
@@ -38,7 +46,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- Tech stacks -->
+<!-- tech stacks -->
 
 ### Tech stacks 🚀
 
@@ -69,7 +77,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- Classical stats -->
+<!-- classical stats -->
 
 ### Classical stats ⚡
 
@@ -95,7 +103,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br>
 
-#### A random meme, Just for you!
+#### A random meme, Just for you
 
 > _PS: Refresh the page to see a new meme_ :wink:
 
@@ -105,7 +113,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- Connect with me -->
+<!-- connect with me -->
 
 ### Connect with me via 🤝
 
@@ -115,7 +123,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- Page index -->
+<!-- page index -->
 <p>
   <h4 align="center"><b>I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X</b></h4>
 </p>
