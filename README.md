@@ -9,6 +9,10 @@
 <img src="./assets/gif/earth.gif" width="60" />
 </p> -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+
 <!-- hello world gif -->
 <div align="center">
    <img src="./assets/gif/hello-world.gif" />
