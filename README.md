@@ -14,9 +14,9 @@
 </div>
 
 <!-- hello world gif -->
-<div align="center">
+<!-- <div align="center">
    <img src="./assets/gif/hello-world.gif" />
-</div>
+</div> -->
 
 <br />
 
