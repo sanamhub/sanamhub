@@ -45,9 +45,9 @@
 I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h3> -->
 
 <!-- coder gif -->
-<p align="center">
+<!-- <p align="center">
 <img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
-</p>
+</p> -->
 
 <br />
 
