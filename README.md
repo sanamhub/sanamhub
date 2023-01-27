@@ -9,7 +9,7 @@
 <img src="./assets/gif/earth.gif" width="60" />
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
 
 ```txt
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗
@@ -22,7 +22,7 @@
 
 </div>
 
-<br />
+<br /> -->
 
 <div align="center">
   
