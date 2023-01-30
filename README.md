@@ -145,15 +145,15 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 <p align="center">
    <a href="mailto:sanampakuwal27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/512/github.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://gitlab.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/gitlab.png"  width="50" /></a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/mrsanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/gitlab.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sanampakuwal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="50" /></a>
   &nbsp;&nbsp;
