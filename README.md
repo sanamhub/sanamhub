@@ -142,9 +142,26 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 ### Connect with me via 🤝
 
-<h4 align="center">
-<a href="mailto: sanam@sanampakuwal.com.np">Email</a> · <a href="mailto: sanampakuwal27@gmail.com">Gmail</a> · <a href="https://github.com/sanamhub">GitHub</a> · <a href="https://gitlab.com/sanampakuwal">GitLab</a> · <a href="https://www.linkedin.com/in/sanampakuwal/">LinkedIn</a> · <a href="https://t.me/sanampakuwal">Telegram</a> · <a href="https://www.facebook.com/mrsanampakuwal">Facebook</a> · <a href="https://www.instagram.com/sanampakuwal/">Instagram</a> · <a href="https://twitter.com/sanampakuwal">Twitter</a>
-</h4>
+<p align="center">
+   <a href="mailto:sanampakuwal27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/glyph-neue/512/github.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/gitlab.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/mrsanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sanampakuwal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-youtube-is-an-american-video-sharing-and-now-googles-subsidiaries-logo-color-tal-revivo.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/twitter.png"  width="50" /></a>
+  &nbsp;&nbsp;  
+</p>
 
 <br />
 
