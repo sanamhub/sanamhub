@@ -73,7 +73,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <!-- tech stacks -->
 
-### Tech stacks 🚀
+<h3><img src="https://user-images.githubusercontent.com/31341013/215383636-e49afee1-6238-48a2-abe4-f6159e6a195a.png" height="25"/> Tech stacks 🚀</h3>
 
 **Language and technologies**
 
