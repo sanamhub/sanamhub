@@ -1,46 +1,16 @@
-<!-- Stand with Ukraine -->
-<!-- [![Stand With Ukraine](./assets/svg/stand-with-ukraine.svg)](https://stand-with-ukraine.pp.ua/) -->
-
-<!-- Greeting and tagline -->
-<!-- <h1>Hi there <img src="./assets/gif/wave.gif" width="30"></h1> -->
-
-<!-- <h3 align="center">Hello, World!</h3>
-<p align="center">
-<img src="./assets/gif/earth.gif" width="60" />
-</p> -->
-
-<!-- <div align="center">
-
-```txt
-██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
-███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝
-```
-
-</div>
-
-<br /> -->
-
+<!-- hero -->
 <div align="center">
-  
-![image](https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png)
-  
-</div>
 
-<!-- hello world gif -->
-<!-- <div align="center">
-   <img src="./assets/gif/hello-world.gif" />
-</div> -->
+![image](https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png)
+
+</div>
 
 <br />
 
 <!-- introduction -->
-<!-- <h3>I'm Sanam, Full Stack Software Developer from Nepal.
+<h2>Hi there, I'm [Sanam](https://sanampakuwal.com.np/) 👋</h2>
 
-I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h3> -->
+<h3>I'm specialized in Software Engineering, Data / QA Engineering, FinTech, .NET Technologies, Automation, SQL and so on!</h3>
 
 <!-- coder gif -->
 <!-- <p align="center">
@@ -49,7 +19,7 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- beautiful streak -->
+<!-- streak -->
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanamhub&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="sanamhub's streak" />
@@ -58,22 +28,8 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <br />
 
-<!-- activity graph -->
-<!-- <p align="center">
-<a href="#">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Sanam's monthly coding activity" />
-</a>
-</p>
-
-<br /> -->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
-
 <!-- tech stacks -->
-
-<h3><img src="https://user-images.githubusercontent.com/31341013/215384145-99d3ea7f-9fab-4b7e-a476-dbfc533b1412.gif" height="25"/> Tech stacks 🚀</h3>
+<h3><img src="https://user-images.githubusercontent.com/31341013/215384145-99d3ea7f-9fab-4b7e-a476-dbfc533b1412.gif" height="25"/> Tech 🚀</h3>
 
 **Language and technologies**
 
@@ -104,11 +60,9 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <!-- classical stats -->
 
-### Classical stats ⚡
+### Stats ⚡
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=merko" alt="sanam's Github Stats" width="60%">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sanam&layout=compact&count_private=true&show_icons=true&theme=merko" alt="Sanam's Wakatime Stats" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=merko" width="37%" alt="Sanam's Top Languages">
 
@@ -140,10 +94,10 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
 
 <!-- connect with me -->
 
-### Connect with me via 🤝
+### Let's get connected 🤝
 
 <p align="center">
-   <a href="mailto:sanampakuwal27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
+  <a href="https://twitter.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/twitter.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
@@ -151,16 +105,16 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/mrsanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
-  &nbsp;&nbsp;
+  <!-- <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
+  &nbsp;&nbsp; -->
   <a href="https://gitlab.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/gitlab.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sanampakuwal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-youtube-is-an-american-video-sharing-and-now-googles-subsidiaries-logo-color-tal-revivo.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/twitter.png"  width="50" /></a>
-  &nbsp;&nbsp;  
+   <a href="mailto:sanampakuwal27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
 </p>
 
 <br />
@@ -173,4 +127,4 @@ I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL,
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 </p>
 
-\*<sub>This README is night theme compatible</sub>
+\*<sub>This README is dark theme compatible</sub>
