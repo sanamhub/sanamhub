@@ -4,9 +4,9 @@ BRANCH=`git rev-parse --abbrev-ref HEAD`
 PROTECTED_BRANCHES="^(master|main|dev|develop|release-*|patch-*)"
 
 if [[ "$BRANCH" =~ $PROTECTED_BRANCHES ]]; then
-	echo "-------------------------------------"
-	echo "// Cannot push to protected branch //"
-	echo "-------------------------------------"
+	echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+	echo "!! Cannot push to protected branch !!"
+	echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 	echo "Aborting..."
 	exit 1
 fi
