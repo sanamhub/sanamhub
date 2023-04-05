@@ -3,9 +3,7 @@
   Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a>👋
 </h2>
 <h4>
-  Full Stack Software Developer from Nepal with specialized skills in FinTech, .NET Technologies, Web
- Development, Automation, SQL, and Data/QA Engineering. Having a positive attitude towards work and are
- passionate about technology, learning and crafting something awesome everyday.
+  Full Stack Software Developer from Nepal with specialized skills in FinTech, .NET / Web Technologies, Quality Assurance, Automation, SQL, and Data / Database Engineering. Having a positive attitude towards work and are passionate about technology, learning and crafting something awesome everyday.
 </h4>
 
 <!-- hero -->
