@@ -10,7 +10,7 @@
 <!-- introduction -->
 <h2>Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a>👋</h2>
 
-<h3>I'm specialized in Software Engineering, Data / QA Engineering, FinTech, .NET Technologies, Automation, SQL and so on!</h3>
+<h4>I'm specialized in Software Engineering, Data / QA Engineering, FinTech, .NET Technologies, Automation, SQL and so on!</h4>
 
 <!-- coder gif -->
 <!-- <p align="center">
