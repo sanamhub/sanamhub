@@ -2,11 +2,11 @@
 <h1 align="center">
   Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a>👋
 </h1>
-<h3>
+<h4>
   Full Stack Software Developer from Nepal with specialized skills in FinTech, .NET Technologies, Web
  Development, Automation, SQL, and Data/QA Engineering. Having a positive attitude towards work and are
  passionate about technology, learning and crafting something awesome everyday.
-</h3>
+</h4>
 
 <!-- hero -->
 <div align="center">
