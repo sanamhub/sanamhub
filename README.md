@@ -1,8 +1,5 @@
 <!-- introduction -->
 <h2>Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a>👋</h2>
-
-<br />
-
 <h4>
   Full Stack Software Developer from Nepal with specialized skills in FinTech, .NET Technologies, Web
  Development, Automation, SQL, and Data/QA Engineering. Having a positive attitude towards work and are
