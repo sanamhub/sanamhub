@@ -165,6 +165,17 @@
 
 <br />
 
+<!-- footer -->
+<samp>
+    <h3 align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding 👨‍💻"
+    </h3>
+</samp>
+
+<br />
+
 <!-- page index -->
 <p>
   <h4 align="center"><b>I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X</b></h4>
