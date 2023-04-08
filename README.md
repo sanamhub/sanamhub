@@ -169,23 +169,14 @@
 <br />
 
 <!-- footer -->
-<samp>
-    <h3 align="center">
+<div align="center">
+    <h2 align="center">
         ════ ⋆★⋆ ════
         <br>
         "Happy Coding 👨‍💻"
-    </h3>
-</samp>
+    </h2>
+</div>
 
 <br />
-
-<!-- footer -->
-<div align="center">
-    <h3 align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding 👨‍💻"
-    </h3>
-</div>
 
 \*<sub>This README is dark theme compatible. [click to set dark theme](https://github.com/settings/appearance#gh-dark-mode-only)</sub>
