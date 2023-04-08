@@ -173,4 +173,4 @@
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 </p>
 
-\*<sub>This README is dark theme compatible</sub>
+\*<sub>This README is dark theme compatible. [click to set dark theme](https://github.com/settings/appearance#gh-dark-mode-only)</sub>
