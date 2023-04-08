@@ -91,7 +91,7 @@
 
 <!-- Fun section -->
 
-### 🎉 Have some fun!
+### 🎉 Have some fun
 
 <br>
 
@@ -102,7 +102,8 @@
 </p>
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/)
+
 </div>
 
 <br />
@@ -119,7 +120,7 @@
 
 <!-- connect with me -->
 
-### 🌐 Let's get connected!
+### 🌐 Let's get connected
 
 <p align="center">
   <a href="https://twitter.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/twitter.png"  width="50" /></a>
