@@ -1,6 +1,6 @@
 <!-- introduction -->
 <h2 align="center">
-  Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a>👋
+  Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a> 👋
 </h2>
 <h4>
   Software Engineer from Nepal with specialized skills in FinTech, .NET / Web Technologies, Quality Assurance, Automation, SQL, and Data / Database Engineering. Having a positive attitude towards work and passionate about technology, learning and crafting something awesome everyday.
