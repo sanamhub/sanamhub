@@ -15,13 +15,6 @@
 
 <br />
 
-<!-- coder gif -->
-<!-- <p align="center">
-<img src="./assets/gif/gif.gif" alt="Coder GIF" width="500">
-</p> -->
-
-<br />
-
 <!-- streak -->
 <p align="center">
 <a href="#go-nowhere">
@@ -29,11 +22,9 @@
 </a>
 </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🏆 Trophies
 
-## 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sanamhub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sanamhub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2)
 
 <br />
 
@@ -105,6 +96,12 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/)
 
 </div>
+
+<br />
+
+#### A good quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br />
 
