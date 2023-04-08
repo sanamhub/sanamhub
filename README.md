@@ -3,12 +3,12 @@
 
 <!-- introduction -->
 <h3 align="center">
-  <samp>
   Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a> 👋
-  </samp>
 </h3>
 <h4>
+  <samp>
   Software Engineer from Nepal with specialized skills in FinTech, .NET / Web Technologies, Quality Assurance, Automation, SQL, and Data / Database Engineering. Having a positive attitude towards work and passionate about technology, learning and crafting something awesome everyday.
+  </samp>
 </h4>
 
 <!-- hero -->
@@ -45,11 +45,7 @@
 <br />
 
 <!-- tech stacks -->
-<h3>
-  <samp>
-  💻 Tech
-  </samp>
-</h3>
+### <samp>💻 Tech</samp>
 
 **<samp>Language and technologies</samp>**
 
@@ -122,7 +118,7 @@
 
 <br />
 
-#### <samp>A good quote</samp>
+#### <samp>🌻 A good quote</samp>
 
 <div align="center">
   
@@ -132,9 +128,9 @@
 
 <br />
 
-#### <samp>A random meme, Just for you</samp>
+#### <samp>😀 A random meme, Just for you</samp>
 
-> _PS: Refresh the page to see a new meme_ :wink:
+> _Tip: Refresh the page to see a new meme_ :wink:
 
 <p align="center">
   
