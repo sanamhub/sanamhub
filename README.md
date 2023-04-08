@@ -45,6 +45,7 @@
 <br />
 
 <!-- tech stacks -->
+
 ### <samp>💻 Tech</samp>
 
 **<samp>Language and technologies</samp>**
