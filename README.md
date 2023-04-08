@@ -1,4 +1,4 @@
-<img height="22px" width="150px" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
+<img height="21px" width="150px" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 
 <!-- introduction -->
 <h2 align="center">
