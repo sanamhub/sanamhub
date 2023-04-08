@@ -3,7 +3,9 @@
 
 <!-- introduction -->
 <h3 align="center">
-  Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a> 👋
+  <samp>
+  &gt; Hi there, I am <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a> 👋
+  </samp>
 </h3>
 <h4>
   <samp>
