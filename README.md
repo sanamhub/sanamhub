@@ -1,5 +1,5 @@
 <!-- index -->
-<img height="21px" width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
+<img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 
 <!-- introduction -->
 <h2 align="center">
@@ -86,7 +86,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=merko" alt="Sanam's Github Stats" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=merko" alt="Sanam's Github Stats" width="66%">
   
 </div>
 
