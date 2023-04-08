@@ -168,6 +168,11 @@
 
 <br />
 
+<!-- cat -->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>
+
 <!-- footer -->
 <div align="center">
     <h2 align="center">
