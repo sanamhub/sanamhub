@@ -90,7 +90,7 @@
   
 </div>
 
-<img align="left" src="https://github-contributor-stats.vercel.app/api?username=sanamhub&limit=6&theme=dark&combine_all_yearly_contributions=true" alt="Sanam's Github Contributor Stats" width="60%">
+<img align="left" src="https://github-contributor-stats.vercel.app/api?username=sanamhub&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Sanam's Github Contributor Stats" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=merko" width="37%" alt="Sanam's Top Languages">
 
