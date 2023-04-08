@@ -24,12 +24,18 @@
 
 <br />
 
-<!-- trophies -->
+<!-- trophy gif -->
 <p align="center">
-  
-![trophies](https://github-profile-trophy.vercel.app/?username=sanamhub&theme=tokyonight&no-frame=true&no-bg=true)
-  
-</p>
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
+<!-- trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanamhub&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanamhub&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>
 
 <br />
 
