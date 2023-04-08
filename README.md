@@ -1,3 +1,4 @@
+<!-- index -->
 <img height="21px" width="150px" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 
 <!-- introduction -->
@@ -178,12 +179,13 @@
 
 <br />
 
-<!-- page index -->
-<p>
-  <h4 align="center"><b>I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X</b></h4>
-</p>
-<p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
-</p>
+<!-- footer -->
+<div align="center">
+    <h3 align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding 👨‍💻"
+    </h3>
+</div>
 
 \*<sub>This README is dark theme compatible. [click to set dark theme](https://github.com/settings/appearance#gh-dark-mode-only)</sub>
