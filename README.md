@@ -44,6 +44,32 @@
 
 <br />
 
+<!-- pinned repos -->
+
+### <samp>📌 Pinned</samp>
+
+<p align="center">
+<a href="https://github.com/sanamhub/postgresql-to-mssql">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=postgresql-to-mssql&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/sanamhub/dotnet-mapper">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=dotnet-mapper&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/sanamhub/sanamhub">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=sanamhub&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/sanamhub/css-roast">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=css-roast&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<br />
+
 <!-- tech stacks -->
 
 ### <samp>💻 Tech</samp>
