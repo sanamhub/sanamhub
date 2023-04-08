@@ -31,6 +31,12 @@
 
 <br />
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
+<br />
+
 <!-- tech stacks -->
 <h3><img src="https://user-images.githubusercontent.com/31341013/215384145-99d3ea7f-9fab-4b7e-a476-dbfc533b1412.gif" height="25"/> Tech 🚀</h3>
 
