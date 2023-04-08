@@ -1,3 +1,5 @@
+<img align="center" alt="visitors" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
+
 <!-- introduction -->
 <h2 align="center">
   Hi there, I'm <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a> 👋
