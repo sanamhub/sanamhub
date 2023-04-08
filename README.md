@@ -27,7 +27,7 @@
 <!-- trophies -->
 <p align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=sanamhub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=0)
+![trophies](https://github-profile-trophy.vercel.app/?username=sanamhub&theme=tokyonight&no-frame=true&no-bg=true)
   
 </p>
 
