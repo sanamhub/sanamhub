@@ -52,21 +52,21 @@
 
 <p align="center">
 <a href="https://github.com/sanamhub/postgresql-to-mssql">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=postgresql-to-mssql&border_color=0533b0&bg_color=52a170&title_color=000000&text_color=0d0c0c&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=postgresql-to-mssql&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/sanamhub/dotnet-mapper">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=dotnet-mapper&border_color=0533b0&bg_color=52a170&title_color=000000&text_color=0d0c0c&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=dotnet-mapper&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/sanamhub/sanamhub">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=sanamhub&border_color=0533b0&bg_color=52a170&title_color=000000&text_color=0d0c0c&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=sanamhub&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/sanamhub/css-roast">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=css-roast&border_color=0533b0&bg_color=52a170&title_color=000000&text_color=0d0c0c&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=css-roast&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
@@ -121,7 +121,7 @@
   
 </div>
 
-<img align="left" src="https://github-contributor-stats.vercel.app/api?username=sanamhub&limit=7&theme=transparent&combine_all_yearly_contributions=true" alt="Sanam's Github Contributor Stats" width="60%">
+<img align="left" src="https://github-contributor-stats.vercel.app/api?username=sanamhub&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Sanam's Github Contributor Stats" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=transparent" width="37%" alt="Sanam's Top Languages">
 
@@ -151,7 +151,7 @@
 
 <div align="center">
   
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 </div>
 
@@ -219,3 +219,7 @@
     </h3>
   </samp>
 </div>
+
+<br />
+
+\*<sub>This README is dark theme compatible. [click to set dark theme](https://github.com/settings/appearance#gh-dark-mode-only)</sub>
