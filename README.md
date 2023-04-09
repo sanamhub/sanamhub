@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="https://github.com/sanamhub/postgresql-to-mssql">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=postgresql-to-mssql&border_color=02D892&bg_color=transparent&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=sanamhub&repo=postgresql-to-mssql&border_color=02D892&bg_color=498c63&title_color=000000&text_color=0d0c0c&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/sanamhub/dotnet-mapper">
