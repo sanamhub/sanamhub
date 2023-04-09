@@ -1,4 +1,9 @@
-/* Global Styles */
+/* Html Styles */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Body Styles */
 body {
   background-color: #ffffff;
   color: #fff;
@@ -69,10 +74,12 @@ li {
 a {
   color: #58a6ff;
   text-decoration: none;
+  transition: color 0.2s ease-in-out;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #2b6cb0;
 }
 
 /* Code Styles */
@@ -127,4 +134,10 @@ img {
   padding: 20px;
   border: 2px solid #58a6ff;
   border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.8em;
+  }
 }
