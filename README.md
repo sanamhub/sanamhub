@@ -219,7 +219,3 @@
     </h3>
   </samp>
 </div>
-
-<br />
-
-\*<sub>This README is dark theme compatible. [click to set dark theme](https://github.com/settings/appearance#gh-dark-mode-only)</sub>
