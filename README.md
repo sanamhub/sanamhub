@@ -13,6 +13,8 @@
   </samp>
 </h4>
 
+<br />
+
 <!-- hero -->
 <div align="center">
 
@@ -88,12 +90,12 @@
 
 **<samp>Utilities</samp>**
 
-| <img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> | <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> | <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> | <img title="Visual Studio" alt="Visual Studio" width="40px" src="./assets/svg/utilities/git.svg" /> | <img title="git" alt="git" width="40px" src="./assets/svg/utilities/vs.svg" /> | <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> | <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" /> |
+| <img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> | <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> | <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> | <img title="Git" alt="Git" width="40px" src="./assets/svg/utilities/git.svg" /> | <img title="Visual Studio" alt="Visual Studio" width="40px" src="./assets/svg/utilities/vs.svg" /> | <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> | <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" /> |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
 **<samp>Library and frameworks</samp>**
 
-| <img title=".NET" alt=".NET" width="40px" src="./assets/svg/lib/dotnet.svg" /> | <img title="C" alt="C" width="40px" src="./assets/svg/lib/react.svg" /> | <img title="jQuery" alt="jQuery" width="40px" src="./assets/svg/lib/jquery.svg" /> | <img title="Cypress" alt="Cypress" width="40px" src="./assets/svg/lib/cypress.svg" /> | <img title="Playwright" alt="Playwright" width="40px" src="./assets/svg/lib/playwright.svg" /> | <img title="Sass" alt="Sass" width="40px" src="./assets/svg/lib/sass.svg" /> |
+| <img title=".NET" alt=".NET" width="40px" src="./assets/svg/lib/dotnet.svg" /> | <img title="React" alt="React" width="40px" src="./assets/svg/lib/react.svg" /> | <img title="jQuery" alt="jQuery" width="40px" src="./assets/svg/lib/jquery.svg" /> | <img title="Cypress" alt="Cypress" width="40px" src="./assets/svg/lib/cypress.svg" /> | <img title="Playwright" alt="Playwright" width="40px" src="./assets/svg/lib/playwright.svg" /> | <img title="Sass" alt="Sass" width="40px" src="./assets/svg/lib/sass.svg" /> |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 
 **<samp>Design</samp>**
