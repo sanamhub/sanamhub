@@ -1,0 +1,130 @@
+/* Global Styles */
+body {
+  background-color: #ffffff;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Heading Styles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 0.875em;
+}
+
+/* Paragraph Styles */
+p {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+/* List Styles */
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 16px;
+  padding-left: 2em;
+}
+
+li {
+  margin-bottom: 4px;
+}
+
+/* Link Styles */
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Code Styles */
+pre {
+  background-color: #161b22;
+  color: #d1d5da;
+  margin-top: 0;
+  margin-bottom: 16px;
+  padding: 16px;
+  border-radius: 6px;
+  overflow: auto;
+}
+
+code {
+  color: #d1d5da;
+  font-size: 85%;
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+
+/* Blockquote Styles */
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1em;
+  border-left: 4px solid #58a6ff;
+  color: #d1d5da;
+  font-style: italic;
+}
+
+/* Horizontal Rule Styles */
+hr {
+  border-style: solid;
+  border-color: #30363d;
+  border-width: 1px 0 0;
+  margin: 16px 0;
+}
+
+/* Image Styles */
+img {
+  background-color: rgba(255, 255, 255, 0.05);
+  max-width: 100%;
+  height: auto;
+  mix-blend-mode: multiply;
+}
+
+/* Render GitHub Markdown */
+.render {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #58a6ff;
+  border-radius: 10px;
+}
