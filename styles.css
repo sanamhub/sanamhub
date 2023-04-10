@@ -257,8 +257,12 @@ small {
 
 /* header */
 .nav {
-  width: 100%;
-  padding: 0 1rem;
+  overflow: hidden;
+  background-color: #000000;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  z-index: 999;
+  width: 100%; /* Full width */
 }
 
 .nav .container {
@@ -266,7 +270,7 @@ small {
   align-items: center;
   justify-content: space-between;
   padding: 0.85rem 2rem;
-  background: var(--secondary-clr);
+  background: #000000;
   margin-block-start: 1.15rem;
   border-radius: 0.5rem;
   font-size: 1.4rem;
@@ -401,7 +405,7 @@ small {
 /* about section */
 .about-me {
   margin-block-start: var(--section-mt);
-  background: var(--secondary-clr);
+  background: #000000;
   padding: var(--section-mt) 1rem;
 }
 
