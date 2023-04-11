@@ -132,8 +132,8 @@ img {
   max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  border: 2px solid #58a6ff;
-  border-radius: 10px;
+  border: 7px solid #5dc56a;
+  border-radius: 11px;
 }
 
 @media (max-width: 600px) {
