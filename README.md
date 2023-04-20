@@ -9,7 +9,7 @@
 </h3>
 <h4>
   <samp>
-  Software Engineer from Nepal with specialized skills in FinTech, .NET / Web Technologies, Quality Assurance, Automation, SQL, and Data / Database Engineering. Having a positive attitude towards work and passionate about technology, learning and crafting something awesome everyday.
+  Software Developer from Nepal with specialized in FinTech, .NET / Web Technologies, Quality Assurance, Automation, SQL, and Data / Database Engineering. Having a positive attitude towards work and passionate about technology, learning and crafting something awesome everyday.
   </samp>
 </h4>
 
@@ -91,12 +91,12 @@
 **<samp>Utilities</samp>**
 
 | <img title="Windows" alt="Windows" width="40px" src="./assets/svg/utilities/windows.svg" /> | <img title="Linux" alt="Linux" width="40px" src="./assets/svg/utilities/linux.svg" /> | <img title="Terminal" alt="Terminal" width="40px" src="./assets/svg/utilities/terminal.svg" /> | <img title="Git" alt="Git" width="40px" src="./assets/svg/utilities/git.svg" /> | <img title="Visual Studio" alt="Visual Studio" width="40px" src="./assets/svg/utilities/vs.svg" /> | <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/svg/utilities/vscode.svg" /> | <img title="Office" alt="Office" width="40px" src="./assets/svg/utilities/office.svg" /> |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
 **<samp>Library and frameworks</samp>**
 
 | <img title=".NET" alt=".NET" width="40px" src="./assets/svg/lib/dotnet.svg" /> | <img title="React" alt="React" width="40px" src="./assets/svg/lib/react.svg" /> | <img title="jQuery" alt="jQuery" width="40px" src="./assets/svg/lib/jquery.svg" /> | <img title="Cypress" alt="Cypress" width="40px" src="./assets/svg/lib/cypress.svg" /> | <img title="Playwright" alt="Playwright" width="40px" src="./assets/svg/lib/playwright.svg" /> | <img title="Sass" alt="Sass" width="40px" src="./assets/svg/lib/sass.svg" /> |
-| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 
 **<samp>Design</samp>**
 
@@ -110,9 +110,9 @@
 ### <samp>📊 Stats</samp>
 
 <div align="center">
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=sanamhub&count_private=true&show_icons=true&theme=transparent" alt="Sanam's Github Stats" width="66%">
-  
+
 </div>
 
 <img align="left" src="https://github-contributor-stats.vercel.app/api?username=sanamhub&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Sanam's Github Contributor Stats" width="60%">
@@ -134,9 +134,9 @@
 </p>
 
 <div align="center">
-  
+
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=transparent&border_color=0d1117)](https://open.spotify.com/)
-  
+
 </div>
 
 <br />
@@ -144,9 +144,9 @@
 #### <samp>🌻 A good quote</samp>
 
 <div align="center">
-  
+
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-  
+
 </div>
 
 <br />
@@ -156,9 +156,9 @@
 > _Tip: Refresh the page to see a new meme_ :wink:
 
 <p align="center">
-  
+
   <img src="https://rm.up.railway.app/" width="512px"/>
-  
+
 </p>
 
 <br />
@@ -176,8 +176,8 @@
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/mrsanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <!-- <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
-  &nbsp;&nbsp; -->
+  <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
+  &nbsp;&nbsp;
   <a href="https://gitlab.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/gitlab.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sanampakuwal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="50" /></a>
