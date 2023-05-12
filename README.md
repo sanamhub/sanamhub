@@ -9,7 +9,7 @@
 </h3>
 <h4>
   <samp>
-  Software Developer from Nepal with specialized in FinTech, .NET / Web Technologies, Quality Assurance, Automation, SQL, and Data / Database Engineering. Having a positive attitude towards work and passionate about technology, learning and crafting something awesome everyday.
+  Software Developer from Nepal with specialized in FinTech, eCommerce, .NET / Web Technologies, Quality Assurance, Automation, SQL / Database Engineering. Having a positive attitude towards work and passionate about technology, learning and crafting something awesome everyday.
   </samp>
 </h4>
 
