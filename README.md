@@ -4,13 +4,13 @@
 <!-- introduction -->
 <h3 align="center">
   <samp>
-  &gt; Hi there, I am <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a> 👋
+  &gt; Hi there, I am <a href="https://sanam.codes" target="_blank">Sanam</a> 👋
   </samp>
 </h3>
 
 <h4>
   <samp>
-  Software Engineer from Nepal specialized in FinTech, eCommerce, .NET / Web Technologies, Quality Assurance, Automation, Data / Database Engineering. Having a positive attitude towards hard work and passionate about technology, learning and crafting something awesome everyday.
+  Software Developer from Nepal specialized in FinTech, eCommerce, .NET / Web Technologies, Quality Assurance, Automation, Data / Database Engineering. Having a positive attitude towards hard work and passionate about technology, learning and crafting something awesome everyday.
   </samp>
 </h4>
 
