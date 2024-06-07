@@ -152,18 +152,6 @@
 
 <br />
 
-#### <samp>😀 A random meme, Just for you</samp>
-
-> _Tip: Refresh the page to see a new meme_ :wink:
-
-<p align="center">
-  
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-</p>
-
-<br />
-
 <!-- connect with me -->
 
 ### <samp>🌐 Let's get connected</samp>
