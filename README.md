@@ -163,7 +163,7 @@
   &nbsp;&nbsp;
   <a href="https://t.me/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/mrsanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
+  <a href="https://www.facebook.com/notsanam" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
   &nbsp;&nbsp;
@@ -194,7 +194,3 @@
     </h3>
   </samp>
 </div>
-
-<br />
-
-\*<sub>This README is dark theme compatible. [click to set dark theme](https://github.com/settings/appearance#gh-dark-mode-only)</sub>
