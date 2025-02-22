@@ -1,4 +1,4 @@
-<!-- index -->
+<!-- count -->
 <img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 
 <!-- introduction -->
