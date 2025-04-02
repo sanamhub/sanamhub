@@ -24,7 +24,7 @@
         padding: 0 10%;
       }
       .content {
-        max-width: 600px;
+        max-width: 700px;
       }
       h1 {
         font-size: 2.5em;
@@ -49,7 +49,7 @@
       .floating-gif {
         max-width: 300px;
         position: absolute;
-        right: 10%;
+        right: 17%;
         top: 50%;
         transform: translateY(-50%);
       }
@@ -95,7 +95,9 @@
         <tr>
           <td>Facebook</td>
           <td>
-            <a href="https://facebook.com/notsanam" target="_blank">@notsanam</a>
+            <a href="https://www.facebook.com/notsanam" target="_blank"
+              >@notsanam</a
+            >
           </td>
         </tr>
         <tr>
@@ -129,7 +131,9 @@
           </td>
         </tr>
       </table>
-      <p class="footer">PS. Dark mode saves your eyes. No need to thank me!</p>
+      <p class="footer">
+        PS. Dark mode—so you don’t go blind. You’re welcome. 🙏
+      </p>
     </div>
     <img
       class="floating-gif"
@@ -138,7 +142,7 @@
       alt="Modern Floating GIF"
     />
     <script>
-      const gifSources = [
+      const gifs = [
         "https://i.gifer.com/7VE.gif",
         "https://i.gifer.com/4SHX.gif",
         "https://i.gifer.com/IXNp.gif",
@@ -147,8 +151,7 @@
         "https://i.gifer.com/XSNt.gif",
         "https://i.gifer.com/1uJP.gif",
       ];
-      const randomGifSource =
-        gifSources[Math.floor(Math.random() * gifSources.length)];
+      const randomGifSource = gifs[Math.floor(Math.random() * gifs.length)];
       const floatingGif = document.getElementById("floatingGif");
       floatingGif.src = randomGifSource;
     </script>
