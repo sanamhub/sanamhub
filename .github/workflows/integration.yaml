@@ -1,20 +1,33 @@
-name: Continuous Deployment
-on: [push]
+name: Deploy to Surge
+
+# Trigger the workflow on pushes to the main branch (or any branch)
+on:
+  push:
+    branches:
+      - main # Or specify the branch you want to deploy from, e.g., [ main ] or use '[*]' for any branch
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      # Step 1: Check out the repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - run: echo "Setting up NodeJs"
-      - name: Setup NodeJs
-        uses: actions/setup-node@v1
+      # Step 2: Setup Node.js (required for npx)
+      # Although we avoid global install, npx itself needs Node.js environment
+      - name: Setup Node.js for npx
+        uses: actions/setup-node@v4
         with:
-          node-version: 16.x
+          # Use a recent LTS version is generally recommended
+          node-version: "18" # Or '20', 'lts/*'
 
-      - run: npm install -g surge
-      - run: echo "Deploying website"
-      - run: surge ./ ${{ secrets.SURGE_DOMAIN_SANAM }} --token ${{ secrets.SURGE_TOKEN_SANAM }}
+      # Step 3: Deploy only index.html to Surge using npx
+      # npx executes the surge command without needing a global install
+      # We specify './index.html' as the file to deploy
+      - name: Deploy index.html to Surge
+        run: npx surge ./index.html ${{ secrets.SURGE_DOMAIN_SANAM }} --token ${{ secrets.SURGE_TOKEN_SANAM }}
 
-      - run: echo "Please visit => ${{ secrets.SURGE_DOMAIN_SANAM }}"
+      # Step 4: Print the deployment URL (optional but helpful)
+      - name: Print Deployment URL
+        run: echo "Deployment successful! Visit => ${{ secrets.SURGE_DOMAIN_SANAM }}"
