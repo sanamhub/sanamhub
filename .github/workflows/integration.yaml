@@ -1,4 +1,4 @@
-name: Deploy to Surge
+name: deploy to surge
 
 # Trigger the workflow on pushes to the main branch (or any branch)
 on:
@@ -11,23 +11,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Step 1: Check out the repository code
-      - name: Checkout Repository
+      - name: checkout repository
         uses: actions/checkout@v4
 
       # Step 2: Setup Node.js (required for npx)
       # Although we avoid global install, npx itself needs Node.js environment
-      - name: Setup Node.js for npx
+      - name: setup node.js for npx
         uses: actions/setup-node@v4
         with:
           # Use a recent LTS version is generally recommended
-          node-version: "18" # Or '20', 'lts/*'
+          node-version: "22" # Or '20', 'lts/*'
 
       # Step 3: Deploy only index.html to Surge using npx
       # npx executes the surge command without needing a global install
-      # We specify './index.html' as the file to deploy
-      - name: Deploy index.html to Surge
-        run: npx surge ./index.html ${{ secrets.SURGE_DOMAIN_SANAM }} --token ${{ secrets.SURGE_TOKEN_SANAM }}
+      # We specify './' as the dir to deploy
+      - name: deploy to surge
+        run: npx surge ./ ${{ secrets.SURGE_DOMAIN_SANAM }} --token ${{ secrets.SURGE_TOKEN_SANAM }}
 
       # Step 4: Print the deployment URL (optional but helpful)
-      - name: Print Deployment URL
+      - name: print deployment URL
         run: echo "Deployment successful! Visit => ${{ secrets.SURGE_DOMAIN_SANAM }}"
