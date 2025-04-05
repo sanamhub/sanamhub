@@ -7,7 +7,7 @@
 <!-- introduction -->
 <h3 align="center">
   <samp>
-  &gt; Hi there, I am <a href="https://sanam.codes" target="_blank">Sanam</a> 👋
+  &gt; Hi there, I am <a href="https://sanampakuwal.com.np" target="_blank">Sanam</a> 👋
   </samp>
 </h3>
 
