@@ -1,3 +1,6 @@
+<!-- netlify status for https://sanampakuwal.com.np/ -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f55e1a2c-0c8f-4ee2-ac6b-9f497756f04c/deploy-status)](https://app.netlify.com/sites/sanampakuwal/deploys)
+
 <!-- count -->
 <img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
 
