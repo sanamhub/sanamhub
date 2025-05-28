@@ -14,13 +14,13 @@
 <br />
 
 <!-- hero -->
-<div align="center">
+<!-- <div align="center">
 
 ![image](https://user-images.githubusercontent.com/31341013/214849505-86f91170-5fd9-461d-977e-61283fc1a10a.png)
 
 </div>
 
-<br />
+<br /> -->
 
 <!-- streak -->
 <p align="center">
@@ -105,7 +105,7 @@
 <br />
 
 <!-- stats -->
-
+<!--
 ### <samp>📊 Stats</samp>
 
 <div align="center">
@@ -119,6 +119,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=transparent" width="37%" alt="Sanam's Top Languages">
 
 <br />
+-->
 
 <!-- let's have some fun -->
 
@@ -140,38 +141,29 @@
 
 <br />
 
-#### <samp>🌻 A good quote</samp>
-
-<div align="center">
-
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<br />
-
 <!-- connect with me -->
 
 ### <samp>🌐 Let's get connected</samp>
 
 <p align="center">
-  <a href="https://twitter.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/twitter.png"  width="50" /></a>
+   <a href="mailto:sanampakuwal27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png"  width="50" /></a>
+  <a href="https://x.com/sanampakuwal" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/fluency/512/twitterx.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/notsanam" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
+  <a href="https://t.me/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
+  <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://gitlab.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/gitlab.png"  width="50" /></a>
+  <a href="https://www.facebook.com/notsanam" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sanampakuwal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="50" /></a>
+  <a href="https://gitlab.com/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/gitlab.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-youtube-is-an-american-video-sharing-and-now-googles-subsidiaries-logo-color-tal-revivo.png"  width="50" /></a>
+  <a href="https://www.instagram.com/sanampakuwal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-   <a href="mailto:sanampakuwal27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
+  <a href="https://www.youtube.com/@sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-youtube-is-an-american-video-sharing-and-now-googles-subsidiaries-logo-color-tal-revivo.png"  width="40" /></a>
   &nbsp;&nbsp;
 </p>
 
@@ -194,5 +186,5 @@
 
 <!-- count -->
 <img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/sanamhub/count.svg" />
-  
+
 </div>
