@@ -7,7 +7,7 @@
 
 <h4>
   <samp>
-  Software Developer from Nepal specialized in FinTech, eCommerce, .NET / Web Technologies, Quality Assurance, Automation, Data / Database Engineering. Having a positive attitude towards hard work and passionate about technology, learning and crafting something awesome everyday.
+  Software Developer from Nepal specialized in FinTech, eCommerce, .NET / Web Technologies, Quality Assurance, AI, Automation, Data / Database Engineering. Having a positive attitude towards hard work and passionate about technology, learning and crafting something awesome everyday.
   </samp>
 </h4>
 
@@ -38,8 +38,11 @@
 <br />
 
 <!-- tech stacks -->
-
-### <samp>💻 Tech</samp>
+<h3 align="center">
+  <samp>
+  &gt; Technologies 💻
+  </samp>
+</h3>
 
 <div align="center">
 
@@ -63,8 +66,11 @@
 <br />
 
 <!-- let's have some fun -->
-
-### <samp>🥂 Have some fun</samp>
+<h3 align="center">
+  <samp>
+  &gt; Have some fun 🍻
+  </samp>
+</h3>
 
 <br>
 
@@ -83,8 +89,11 @@
 <br />
 
 <!-- connect with me -->
-
-### <samp>🌐 Let's get connected</samp>
+<h3 align="center">
+  <samp>
+  &gt; Let's get connected 🌍
+  </samp>
+</h3>
 
 <p align="center">
    <a href="mailto:sanampakuwal27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="40" /></a>
@@ -97,6 +106,8 @@
   <a href="https://t.me/sanampakuwal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/sanamhub" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://bsky.app/profile/sanam.me" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/bluesky.png"  width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/notsanam" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="40" /></a>
   &nbsp;&nbsp;
