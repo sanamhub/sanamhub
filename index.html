@@ -5,95 +5,469 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Sanam is a Software Engineer from Nepal specializing in FinTech, eCommerce, .NET, QA, Automation, and SQL. Passionate about crafting awesome things every day."
+      content="Sanam Pakuwal - Senior Software Developer from Nepal with 6+ years experience in FinTech, .NET, Database Administration, and Performance Optimization."
     />
     <meta
       name="keywords"
-      content="Sanam, Software Engineer, FinTech Developer, .NET, SQL, Automation, QA, Nepal"
+      content="Sanam Pakuwal, Senior Software Developer, FinTech, .NET Developer, Database Administrator, Nepal, Software Engineer, Performance Optimization"
     />
     <meta name="author" content="Sanam Pakuwal" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://sanampakuwal.com.np/" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Sanam - Software Engineer from Nepal" />
+    <meta
+      property="og:title"
+      content="Sanam Pakuwal - Senior Software Developer"
+    />
     <meta
       property="og:description"
-      content="FinTech, .NET, Web Tech, QA, SQL, Automation. Connect with Sanam online."
+      content="Senior Software Developer from Nepal with 6+ years experience in FinTech, .NET, and Database Administration. Expert in turning coffee into code."
     />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://sanampakuwal.com.np/" />
     <meta
       property="og:image"
       content="https://sanampakuwal.com.np/preview.jpg"
     />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://sanampakuwal.com.np/" />
+    <meta property="og:locale" content="en_US" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Sanam Pakuwal - Senior Software Developer"
+    />
+    <meta
+      name="twitter:description"
+      content="Senior Software Developer from Nepal with 6+ years experience in FinTech, .NET, and Database Administration."
+    />
+    <meta
+      name="twitter:image"
+      content="https://sanampakuwal.com.np/preview.jpg"
+    />
+    <meta name="twitter:creator" content="@sanampakuwal" />
 
-    <title>Sanam</title>
-    <!-- <link rel="icon" href="/favicon.ico" /> -->
+    <title>
+      Sanam Pakuwal - Senior Software Developer | FinTech & .NET Expert
+    </title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
       rel="stylesheet"
     />
+
     <style>
       * {
         box-sizing: border-box;
-      }
-      body {
         margin: 0;
-        padding: 40px 8% 80px;
-        font-family: "Poppins", sans-serif;
+        padding: 0;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
         background: linear-gradient(
           135deg,
-          #0a0e13 0%,
-          #1a1d23 50%,
-          #252932 100%
+          #0f172a 0%,
+          #1e293b 50%,
+          #334155 100%
         );
         color: #fff;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
         min-height: 100vh;
-        overflow: hidden;
+        overflow-x: hidden;
         position: relative;
       }
-      body::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
+
+      /* Background elements */
+      .bg-element {
+        position: fixed;
+        border-radius: 50%;
+        z-index: -2;
+        animation: pulse 6s ease-in-out infinite;
+      }
+
+      .bg-element-1 {
+        top: -10rem;
+        right: -10rem;
+        width: 20rem;
+        height: 20rem;
         background: radial-gradient(
-            circle at 20% 50%,
-            rgba(255, 215, 0, 0.02) 0%,
-            transparent 50%
+          circle,
+          rgba(251, 191, 36, 0.08) 0%,
+          transparent 70%
+        );
+      }
+
+      .bg-element-2 {
+        bottom: -10rem;
+        left: -10rem;
+        width: 20rem;
+        height: 20rem;
+        background: radial-gradient(
+          circle,
+          rgba(59, 130, 246, 0.08) 0%,
+          transparent 70%
+        );
+        animation-delay: 2s;
+      }
+
+      .bg-element-3 {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 24rem;
+        height: 24rem;
+        background: radial-gradient(
+          circle,
+          rgba(251, 191, 36, 0.04) 0%,
+          transparent 70%
+        );
+        animation-delay: 4s;
+      }
+
+      .grid-overlay {
+        position: fixed;
+        inset: 0;
+        background-image: linear-gradient(
+            rgba(255, 255, 255, 0.015) 1px,
+            transparent 1px
           ),
-          radial-gradient(
-            circle at 80% 20%,
-            rgba(255, 215, 0, 0.015) 0%,
-            transparent 50%
-          ),
-          radial-gradient(
-            circle at 40% 80%,
-            rgba(255, 215, 0, 0.01) 0%,
-            transparent 50%
+          linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0.015) 1px,
+            transparent 1px
           );
-        pointer-events: none;
+        background-size: 60px 60px;
         z-index: -1;
       }
 
-      .content {
-        max-width: 700px;
-        animation: fadeInUp 0.8s ease-out;
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem;
         position: relative;
-        z-index: 2;
+        z-index: 1;
       }
 
+      .main-content {
+        display: grid;
+        grid-template-columns: 1fr 380px;
+        gap: 4rem;
+        align-items: center;
+        min-height: 80vh;
+      }
+
+      .content-section {
+        animation: fadeInUp 0.8s ease-out;
+      }
+
+      .status-indicator {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 1.5rem;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.15);
+        padding: 0.5rem 1rem;
+        border-radius: 2rem;
+        font-size: 0.85rem;
+        font-weight: 500;
+        color: #10b981;
+        animation: fadeInUp 0.6s ease-out 0.2s both;
+        backdrop-filter: blur(10px);
+        transition: all 0.3s ease;
+      }
+
+      .status-indicator:hover {
+        background: rgba(16, 185, 129, 0.12);
+        border-color: rgba(16, 185, 129, 0.25);
+        transform: translateY(-1px);
+      }
+
+      .status-dot {
+        width: 0.5rem;
+        height: 0.5rem;
+        background: #10b981;
+        border-radius: 50%;
+        animation: statusPulse 2s ease-in-out infinite;
+      }
+
+      .main-title {
+        font-size: clamp(2rem, 6vw, 2.75rem);
+        font-weight: 700;
+        margin-bottom: 0.75rem;
+        background: linear-gradient(45deg, #fbbf24, #f59e0b, #fbbf24);
+        background-size: 200% 200%;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        animation: gradientShift 4s ease-in-out infinite,
+          fadeInUp 0.8s ease-out 0.3s both;
+        letter-spacing: -0.02em;
+      }
+
+      .subtitle {
+        font-size: 1.125rem;
+        color: #cbd5e1;
+        line-height: 1.6;
+        margin-bottom: 2rem;
+        animation: fadeInUp 0.6s ease-out 0.4s both;
+        cursor: pointer;
+        transition: color 0.3s ease;
+        user-select: text;
+      }
+
+      .subtitle:hover:not(.clicked) {
+        color: #fbbf24;
+      }
+
+      .subtitle.clicked {
+        color: #fbbf24;
+        transform: scale(1.02);
+      }
+
+      .section-title {
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: #64748b;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        margin-bottom: 1rem;
+      }
+
+      .skills-section {
+        margin-bottom: 2rem;
+        animation: fadeInUp 0.6s ease-out 0.5s both;
+      }
+
+      .skills-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+
+      .skill-badge {
+        background: rgba(51, 65, 85, 0.4);
+        border: 1px solid rgba(71, 85, 105, 0.4);
+        color: #cbd5e1;
+        padding: 0.5rem 0.75rem;
+        border-radius: 0.5rem;
+        font-size: 0.875rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        backdrop-filter: blur(10px);
+      }
+
+      .skill-badge:hover {
+        background: rgba(71, 85, 105, 0.6);
+        transform: translateY(-2px);
+        border-color: rgba(251, 191, 36, 0.4);
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      }
+
+      .connect-section {
+        animation: fadeInUp 0.6s ease-out 0.6s both;
+      }
+
+      .connect-card {
+        background: rgba(51, 65, 85, 0.25);
+        border: 1px solid rgba(71, 85, 105, 0.4);
+        border-radius: 1rem;
+        backdrop-filter: blur(20px);
+        overflow: hidden;
+        transition: all 0.3s ease;
+      }
+
+      .connect-card:hover {
+        background: rgba(51, 65, 85, 0.3);
+        border-color: rgba(71, 85, 105, 0.5);
+      }
+
+      .connect-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .connect-item {
+        padding: 1rem 1.25rem;
+        border-bottom: 1px solid rgba(71, 85, 105, 0.25);
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .connect-item:hover {
+        background: rgba(251, 191, 36, 0.04);
+        transform: translateX(4px);
+      }
+
+      .connect-item:nth-child(odd) {
+        border-right: 1px solid rgba(71, 85, 105, 0.25);
+      }
+
+      .connect-item:nth-last-child(-n + 2) {
+        border-bottom: none;
+      }
+
+      .connect-info {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        flex: 1;
+      }
+
+      .connect-icon {
+        width: 2rem;
+        height: 2rem;
+        background: rgba(71, 85, 105, 0.4);
+        border-radius: 0.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1rem;
+        transition: all 0.3s ease;
+      }
+
+      .connect-item:hover .connect-icon {
+        background: rgba(251, 191, 36, 0.15);
+      }
+
+      .connect-details h4 {
+        font-weight: 500;
+        color: #e2e8f0;
+        font-size: 0.9rem;
+        margin-bottom: 0.125rem;
+      }
+
+      .connect-details p {
+        font-size: 0.8rem;
+        color: #94a3b8;
+      }
+
+      .connect-link {
+        color: #fbbf24;
+        text-decoration: none;
+        font-weight: 500;
+        opacity: 0;
+        transition: all 0.3s ease;
+        font-size: 0.8rem;
+      }
+
+      .connect-item:hover .connect-link {
+        opacity: 1;
+      }
+
+      .inactive-badge {
+        background: rgba(239, 68, 68, 0.1);
+        color: #fca5a5;
+        padding: 0.125rem 0.5rem;
+        border-radius: 0.25rem;
+        font-size: 0.7rem;
+        font-weight: 500;
+        margin-left: 0.5rem;
+      }
+
+      .floating-gif {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: fadeInUp 0.8s ease-out 0.7s both;
+      }
+
+      .gif-container {
+        position: relative;
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      }
+
+      .gif-container::before {
+        content: "";
+        position: absolute;
+        inset: -1px;
+        background: linear-gradient(
+          45deg,
+          rgba(251, 191, 36, 0.1),
+          rgba(59, 130, 246, 0.1),
+          rgba(251, 191, 36, 0.1)
+        );
+        border-radius: 1rem;
+        z-index: -1;
+        opacity: 0;
+        transition: opacity 0.4s ease;
+      }
+
+      .gif-container:hover::before {
+        opacity: 1;
+      }
+
+      .gif-container:hover {
+        transform: translateY(-8px) scale(1.02) rotate(1deg);
+      }
+
+      .gif-container img {
+        width: 100%;
+        max-width: 350px;
+        border-radius: 1rem;
+        display: block;
+        transition: all 0.3s ease;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+      }
+
+      .gif-container:hover img {
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+      }
+
+      .status-link {
+        position: fixed;
+        bottom: 1.5rem;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1000;
+        animation: fadeInUp 0.6s ease-out 1.2s both;
+      }
+
+      .status-button {
+        background: rgba(30, 41, 59, 0.8);
+        border: 1px solid rgba(71, 85, 105, 0.25);
+        color: #94a3b8;
+        padding: 0.5rem 1rem;
+        border-radius: 1.5rem;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 0.8rem;
+        backdrop-filter: blur(20px);
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: 0.375rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      }
+
+      .status-button:hover {
+        background: rgba(51, 65, 85, 0.9);
+        border-color: rgba(251, 191, 36, 0.3);
+        transform: translateY(-2px);
+        color: #e2e8f0;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+      }
+
+      .status-button::before {
+        content: "";
+        width: 0.375rem;
+        height: 0.375rem;
+        background: #10b981;
+        border-radius: 50%;
+        animation: statusPulse 2s ease-in-out infinite;
+      }
+
+      /* Animations */
       @keyframes fadeInUp {
         from {
           opacity: 0;
@@ -105,33 +479,6 @@
         }
       }
 
-      @keyframes glow {
-        0%,
-        100% {
-          text-shadow: 0 0 5px goldenrod, 0 0 10px goldenrod, 0 0 15px goldenrod;
-        }
-        50% {
-          text-shadow: 0 0 10px goldenrod, 0 0 20px goldenrod,
-            0 0 30px goldenrod;
-        }
-      }
-      h1 {
-        font-size: 2.5em;
-        font-weight: 600;
-        margin-bottom: 15px;
-        text-transform: uppercase;
-        background: linear-gradient(45deg, #ffd700, #ffed4e, #ffd700);
-        background-size: 200% 200%;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-        animation: gradientShift 4s ease-in-out infinite;
-        position: relative;
-        letter-spacing: 1.5px;
-        text-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
-        filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
-      }
-
       @keyframes gradientShift {
         0%,
         100% {
@@ -141,133 +488,20 @@
           background-position: 100% 50%;
         }
       }
-      .contacts {
-        border-collapse: collapse;
-        width: 100%;
-        margin-top: 25px;
-        background: rgba(255, 255, 255, 0.03);
-        border-radius: 12px;
-        overflow: hidden;
-        backdrop-filter: blur(15px);
-        border: 1px solid rgba(255, 215, 0, 0.08);
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-      }
-      .contacts tr {
-        transition: all 0.2s ease;
-        border-bottom: 1px solid rgba(255, 215, 0, 0.06);
-      }
-
-      .contacts tr:hover {
-        background: rgba(255, 215, 0, 0.03);
-        transform: translateX(3px);
-      }
-
-      .contacts tr:last-child {
-        border-bottom: none;
-      }
-      .contacts td {
-        padding: 16px 22px;
-        position: relative;
-        font-size: 0.95em;
-      }
-
-      .contacts td:first-child {
-        font-weight: 500;
-        color: #ddd;
-        min-width: 140px;
-        border-right: 1px solid rgba(255, 215, 0, 0.06);
-        background: rgba(255, 255, 255, 0.01);
-      }
-
-      a {
-        text-decoration: none;
-        color: goldenrod;
-        font-weight: 400;
-        position: relative;
-        transition: all 0.3s ease;
-        display: inline-block;
-      }
-
-      a::after {
-        content: "";
-        position: absolute;
-        width: 0;
-        height: 2px;
-        bottom: -2px;
-        left: 0;
-        background: linear-gradient(90deg, goldenrod, #ffed4e);
-        transition: width 0.3s ease;
-      }
-
-      a:hover {
-        color: #ffed4e;
-        transform: translateY(-2px);
-      }
-
-      a:hover::after {
-        width: 100%;
-      }
-      .floating-gif {
-        max-width: 400px;
-        position: absolute;
-        right: 15%;
-        top: 50%;
-        transform: translateY(-50%);
-        border-radius: 16px;
-        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
-        transition: all 0.4s ease;
-        z-index: 1;
-        opacity: 0.9;
-      }
-      .floating-gif:hover {
-        transform: translateY(-50%) scale(1.05) rotate(5deg);
-        box-shadow: 0 16px 50px rgba(255, 215, 0, 0.2);
-        opacity: 1;
-      }
-
-      .status-link {
-        position: fixed;
-        bottom: 30px;
-        left: 50%;
-        transform: translateX(-50%);
-        z-index: 1000;
-      }
-
-      .status-link a {
-        background: rgba(255, 255, 255, 0.05);
-        padding: 12px 24px;
-        border-radius: 25px;
-        backdrop-filter: blur(15px);
-        border: 1px solid rgba(255, 215, 0, 0.2);
-        font-size: 0.9em;
-        font-weight: 500;
-        transition: all 0.3s ease;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-        display: inline-block;
-      }
-
-      .status-link a:hover {
-        background: rgba(255, 215, 0, 0.1);
-        border-color: rgba(255, 215, 0, 0.4);
-        transform: translateY(-2px);
-        box-shadow: 0 6px 25px rgba(255, 215, 0, 0.15);
-      }
-      .status-link a::after {
-        display: none;
-      }
-
-      .status-indicator {
-        display: inline-block;
-        width: 8px;
-        height: 8px;
-        background: #00ff00;
-        border-radius: 50%;
-        margin-left: 8px;
-        animation: pulse 2s ease-in-out infinite;
-        position: relative;
-      }
 
       @keyframes pulse {
+        0%,
+        100% {
+          opacity: 1;
+          transform: scale(1);
+        }
+        50% {
+          opacity: 0.5;
+          transform: scale(1.05);
+        }
+      }
+
+      @keyframes statusPulse {
         0%,
         100% {
           opacity: 1;
@@ -279,307 +513,340 @@
         }
       }
 
-      .status-indicator::after {
-        content: "";
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        border-radius: 50%;
-        background: #00ff00;
-        animation: ripple 2s ease-in-out infinite;
+      /* Selection styling */
+      ::selection {
+        background: rgba(251, 191, 36, 0.2);
+        color: #fff;
       }
 
-      @keyframes ripple {
-        0% {
-          transform: scale(1);
-          opacity: 1;
-        }
-        100% {
-          transform: scale(2.5);
-          opacity: 0;
-        }
+      /* Focus styles for accessibility */
+      a:focus,
+      button:focus {
+        outline: 2px solid #fbbf24;
+        outline-offset: 2px;
       }
-      @media only screen and (max-width: 768px) {
-        body {
-          flex-direction: column;
+
+      /* Mobile Responsive */
+      @media (max-width: 768px) {
+        .container {
+          padding: 1rem;
+        }
+
+        .main-content {
+          grid-template-columns: 1fr;
+          gap: 2rem;
           text-align: center;
-          padding: 20px 5%;
-          height: 100vh;
-          overflow: hidden;
         }
 
-        .content {
-          max-width: 100%;
-          order: 2;
-        }
-        h1 {
-          font-size: 2em;
-          margin-bottom: 12px;
-          letter-spacing: 1px;
-        }
-
-        .contacts {
-          margin-top: 20px;
-          font-size: 0.9em;
-        }
-
-        .contacts td {
-          padding: 12px 16px;
-        }
-
-        .contacts td:first-child {
-          min-width: 100px;
-          font-size: 0.85em;
-        }
-
-        .contacts tr:hover {
-          transform: none;
-          background: rgba(255, 215, 0, 0.04);
-        }
         .floating-gif {
-          position: static;
-          transform: none;
-          margin: 20px auto 0;
-          max-width: 280px;
-          order: 1;
-          display: block;
+          order: -1;
         }
 
-        .floating-gif:hover {
-          transform: scale(1.02) rotate(3deg);
+        .gif-container img {
+          max-width: 280px;
+        }
+
+        .connect-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .connect-item:nth-child(odd) {
+          border-right: none;
+        }
+
+        .connect-item:not(:last-child) {
+          border-bottom: 1px solid rgba(71, 85, 105, 0.25);
+        }
+
+        .connect-item:hover {
+          transform: none;
         }
 
         .status-link {
-          bottom: 20px;
-        }
-        .status-link a {
-          padding: 10px 20px;
-          font-size: 0.85em;
+          bottom: 1rem;
         }
 
         .status-indicator {
-          margin-left: 6px;
+          margin-bottom: 1rem;
         }
       }
 
-      @media only screen and (max-width: 480px) {
-        body {
-          padding: 15px 4%;
-        }
-        h1 {
-          font-size: 1.8em;
+      @media (max-width: 480px) {
+        .skills-grid {
+          justify-content: center;
         }
 
-        .contacts {
-          font-size: 0.85em;
+        .connect-item {
+          padding: 0.875rem 1rem;
         }
 
-        .contacts td {
-          padding: 10px 12px;
-        }
-
-        .contacts td:first-child {
-          min-width: 90px;
-        }
-        .floating-gif {
-          max-width: 240px;
-        }
-        .status-link a {
-          padding: 8px 16px;
-          font-size: 0.8em;
+        .status-button {
+          padding: 0.5rem 0.875rem;
+          font-size: 0.75rem;
         }
       }
     </style>
   </head>
 
   <body>
-    <main class="content">
-      <h1>Relax, I'm fixing things... 🚧</h1>
-      <table class="contacts" aria-label="Contact Information">
-        <tbody>
-          <tr>
-            <td>Telegram</td>
-            <td>
-              <a
-                href="https://sanampakuwal.t.me"
-                target="_blank"
-                rel="noopener noreferrer"
-                >sanampakuwal.t.me</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <td>Email</td>
-            <td>
-              <a href="mailto:sanampakuwal27@gmail.com"
-                >sanampakuwal27@gmail.com</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <td>Facebook (Inactive)</td>
-            <td>
-              <a
-                href="https://www.facebook.com/notsanam"
-                target="_blank"
-                rel="noopener noreferrer"
-                >@notsanam</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <td>X / Twitter</td>
-            <td>
-              <a
-                href="https://x.com/sanampakuwal"
-                target="_blank"
-                rel="noopener noreferrer"
-                >@sanampakuwal</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <td>GitHub</td>
-            <td>
-              <a
-                href="https://github.com/sanamhub"
-                target="_blank"
-                rel="noopener noreferrer"
-                >@sanamhub</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <td>Instagram (Inactive)</td>
-            <td>
-              <a
-                href="https://instagram.com/sanampakuwal"
-                target="_blank"
-                rel="noopener noreferrer"
-                >@sanampakuwal</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <td>LinkedIn</td>
-            <td>
-              <a
-                href="https://www.linkedin.com/in/sanampakuwal"
-                target="_blank"
-                rel="noopener noreferrer"
-                >@sanampakuwal</a
-              >
-            </td>
-          </tr>
-          <tr>
-            <td>Bluesky</td>
-            <td>
-              <a
-                href="https://bsky.app/profile/sanam.me"
-                target="_blank"
-                rel="noopener noreferrer"
-                >@sanam.me</a
-              >
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </main>
+    <div class="bg-element bg-element-1"></div>
+    <div class="bg-element bg-element-2"></div>
+    <div class="bg-element bg-element-3"></div>
+    <div class="grid-overlay"></div>
 
+    <div class="container">
+      <div class="main-content">
+        <div class="content-section">
+          <!-- Status -->
+          <div class="status-indicator">
+            <div class="status-dot"></div>
+            <span>Available for opportunities</span>
+          </div>
+
+          <!-- Main Title -->
+          <h1 class="main-title">Sanam Pakuwal</h1>
+
+          <!-- Subtitle -->
+          <p class="subtitle" id="subtitle">
+            Senior Software Developer from Nepal with 6+ years of experience.
+            Specialized in fixing things that shouldn't be broken and breaking
+            things that work perfectly fine. Expert in .NET wizardry, database
+            whispering, and turning coffee into code since 2017.
+          </p>
+
+          <!-- Skills -->
+          <div class="skills-section">
+            <h3 class="section-title">Expertise & Dark Arts</h3>
+            <div class="skills-grid">
+              <span class="skill-badge">.NET Architecture</span>
+              <span class="skill-badge">Database Administration</span>
+              <span class="skill-badge">FinTech Solutions</span>
+              <span class="skill-badge">Performance Optimization</span>
+              <span class="skill-badge">AI/API Integration</span>
+              <span class="skill-badge">Quality Assurance</span>
+              <span class="skill-badge">Automation</span>
+              <span class="skill-badge">Nginx</span>
+              <span class="skill-badge">Elastic APM</span>
+              <span class="skill-badge">SQL Sorcery</span>
+              <span class="skill-badge">Stripe Certified</span>
+              <span class="skill-badge">Outstanding Performer</span>
+            </div>
+          </div>
+
+          <!-- Connect -->
+          <div class="connect-section">
+            <h3 class="section-title">Connect & Collaborate</h3>
+            <div class="connect-card">
+              <div class="connect-grid">
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">📱</div>
+                    <div class="connect-details">
+                      <h4>Mobile</h4>
+                      <p>+977 9817996672</p>
+                    </div>
+                  </div>
+                  <a href="tel:+9779817996672" class="connect-link">Call</a>
+                </div>
+
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">✉️</div>
+                    <div class="connect-details">
+                      <h4>Email</h4>
+                      <p>sanampakuwal27@gmail.com</p>
+                    </div>
+                  </div>
+                  <a href="mailto:sanampakuwal27@gmail.com" class="connect-link"
+                    >Send</a
+                  >
+                </div>
+
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">💼</div>
+                    <div class="connect-details">
+                      <h4>LinkedIn</h4>
+                      <p>@sanampakuwal</p>
+                    </div>
+                  </div>
+                  <a
+                    href="https://www.linkedin.com/in/sanampakuwal"
+                    target="_blank"
+                    class="connect-link"
+                    >Visit</a
+                  >
+                </div>
+
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">🐙</div>
+                    <div class="connect-details">
+                      <h4>GitHub</h4>
+                      <p>@sanamhub</p>
+                    </div>
+                  </div>
+                  <a
+                    href="https://github.com/sanamhub"
+                    target="_blank"
+                    class="connect-link"
+                    >Code</a
+                  >
+                </div>
+
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">💬</div>
+                    <div class="connect-details">
+                      <h4>Telegram</h4>
+                      <p>sanampakuwal.t.me</p>
+                    </div>
+                  </div>
+                  <a
+                    href="https://sanampakuwal.t.me"
+                    target="_blank"
+                    class="connect-link"
+                    >Chat</a
+                  >
+                </div>
+
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">🐦</div>
+                    <div class="connect-details">
+                      <h4>X / Twitter</h4>
+                      <p>@sanampakuwal</p>
+                    </div>
+                  </div>
+                  <a
+                    href="https://x.com/sanampakuwal"
+                    target="_blank"
+                    class="connect-link"
+                    >Follow</a
+                  >
+                </div>
+
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">🌤️</div>
+                    <div class="connect-details">
+                      <h4>Bluesky</h4>
+                      <p>@sanam.me</p>
+                    </div>
+                  </div>
+                  <a
+                    href="https://bsky.app/profile/sanam.me"
+                    target="_blank"
+                    class="connect-link"
+                    >Sky</a
+                  >
+                </div>
+
+                <div class="connect-item">
+                  <div class="connect-info">
+                    <div class="connect-icon">📘</div>
+                    <div class="connect-details">
+                      <h4>
+                        Facebook <span class="inactive-badge">Inactive</span>
+                      </h4>
+                      <p>@notsanam</p>
+                    </div>
+                  </div>
+                  <a
+                    href="https://www.facebook.com/notsanam"
+                    target="_blank"
+                    class="connect-link"
+                    >Visit</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Floating GIF -->
+        <div class="floating-gif">
+          <div class="gif-container">
+            <img
+              id="floatingGif"
+              src="https://i.gifer.com/7VE.gif"
+              alt="Developer at work"
+              loading="eager"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Status Link -->
     <div class="status-link">
       <a
         href="https://status.sanam.me/status/status"
         target="_blank"
         rel="noopener noreferrer"
+        class="status-button"
       >
-        statuspage
+        Status
       </a>
     </div>
 
-    <img
-      class="floating-gif"
-      id="floatingGif"
-      src=""
-      alt="Some side pic"
-      loading="eager"
-    />
     <script>
       const gifs = [
         "https://i.gifer.com/7VE.gif",
         "https://i.gifer.com/XSNt.gif",
       ];
 
-      // Initialize random gif
+      const statusMessages = [
+        "Currently architecting solutions that make other developers question their life choices",
+        "Turning business requirements into elegant code and occasional existential crises",
+        "Database whisperer by day, performance optimization ninja by night",
+        "Certified in Stripe, SQL, and the art of making things work when they shouldn't",
+        "6+ years of turning 'it works on my machine' into 'it works everywhere'",
+        "From Nepal with love, spreading the gospel of clean code and proper error handling",
+        "Professional bug creator and occasional bug fixer since 2017",
+        "Making databases cry tears of joy with perfectly optimized queries",
+      ];
+
+      // Initialize GIF
       const gifElement = document.getElementById("floatingGif");
-      gifElement.src = gifs[Math.floor(Math.random() * gifs.length)];
+      let currentGifIndex = 0;
 
-      // Professional cursor effect (subtle)
-      document.addEventListener("mousemove", (e) => {
-        let cursor = document.querySelector(".cursor-glow");
-        if (!cursor) {
-          cursor = document.createElement("div");
-          cursor.className = "cursor-glow";
-          cursor.style.cssText = `
-            position: fixed;
-            width: 16px;
-            height: 16px;
-            background: radial-gradient(circle, rgba(255,215,0,0.15) 0%, transparent 70%);
-            border-radius: 50%;
-            pointer-events: none;
-            z-index: 1000;
-            transition: opacity 0.3s ease;
-            opacity: 0;
-          `;
-          document.body.appendChild(cursor);
-        }
+      // GIF cycling
+      setInterval(() => {
+        currentGifIndex = (currentGifIndex + 1) % gifs.length;
+        gifElement.style.opacity = "0.6";
+        setTimeout(() => {
+          gifElement.src = gifs[currentGifIndex];
+          gifElement.style.opacity = "1";
+        }, 300);
+      }, 10000);
 
-        cursor.style.left = e.clientX - 8 + "px";
-        cursor.style.top = e.clientY - 8 + "px";
-        cursor.style.opacity = "1";
+      // Interactive subtitle - fixed to not interfere with text selection
+      const subtitle = document.getElementById("subtitle");
+      const originalText = subtitle.textContent;
+      let isClicked = false;
+
+      subtitle.addEventListener("click", (e) => {
+        // Don't trigger if user is selecting text
+        if (window.getSelection().toString().length > 0) return;
+        if (isClicked) return;
+
+        isClicked = true;
+        subtitle.classList.add("clicked");
+        const randomMessage =
+          statusMessages[Math.floor(Math.random() * statusMessages.length)];
+        subtitle.textContent = randomMessage;
+
+        setTimeout(() => {
+          subtitle.classList.remove("clicked");
+          subtitle.textContent = originalText;
+          isClicked = false;
+        }, 4000);
       });
 
-      // Hide cursor effect when not moving
-      let cursorTimeout;
-      document.addEventListener("mousemove", () => {
-        clearTimeout(cursorTimeout);
-        cursorTimeout = setTimeout(() => {
-          const cursor = document.querySelector(".cursor-glow");
-          if (cursor) cursor.style.opacity = "0";
-        }, 1000);
-      });
-
-      // Status indicator easter egg
-      document
-        .querySelector(".status-indicator")
-        ?.addEventListener("click", () => {
-          const messages = [
-            "Building scalable solutions with .NET and modern web technologies",
-            "Passionate about clean code, automation, and continuous learning",
-            "Currently exploring new frontiers in FinTech development",
-            "Crafting efficient database solutions and robust APIs",
-            "Always ready for the next exciting development challenge",
-          ];
-
-          const randomMessage =
-            messages[Math.floor(Math.random() * messages.length)];
-          const subtitle = document.querySelector(".subtitle");
-          const originalText = subtitle.textContent;
-
-          subtitle.textContent = randomMessage;
-          subtitle.style.color = "#ffd700";
-          subtitle.style.transform = "scale(1.02)";
-
-          setTimeout(() => {
-            subtitle.textContent = originalText;
-            subtitle.style.color = "#aaa";
-            subtitle.style.transform = "scale(1)";
-          }, 4000);
-        });
-
-      // Add smooth scrolling behavior for mobile
+      // Mobile optimization
       if (window.innerWidth <= 768) {
         document.body.style.overflowY = "auto";
-        document.body.style.height = "auto";
       }
     </script>
   </body>
