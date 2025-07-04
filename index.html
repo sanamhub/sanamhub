@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Sanam Pakuwal - Senior Software Developer from Nepal with 6+ years experience in FinTech, .NET, Database Administration, and Performance Optimization."
+      content="Sanam Pakuwal - Software Developer from Nepal with 6+ years experience in FinTech, eCommerce, .NET, Database Administration, and Performance Optimization."
     />
     <meta
       name="keywords"
-      content="Sanam Pakuwal, Senior Software Developer, FinTech, .NET Developer, Database Administrator, Nepal, Software Engineer, Performance Optimization"
+      content="Sanam Pakuwal, Software Developer, FinTech, eCommerce, .NET Developer, Database Administrator, Nepal, Software Engineer, Performance Optimization"
     />
     <meta name="author" content="Sanam Pakuwal" />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://sanampakuwal.com.np/" />
+    <link rel="canonical" href="https://sanam.me/" />
 
     <!-- Open Graph -->
     <meta
@@ -25,11 +25,8 @@
       content="Senior Software Developer from Nepal with 6+ years experience in FinTech, .NET, and Database Administration. Expert in turning coffee into code."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://sanampakuwal.com.np/" />
-    <meta
-      property="og:image"
-      content="https://sanampakuwal.com.np/preview.jpg"
-    />
+    <meta property="og:url" content="https://sanam.me/" />
+    <meta property="og:image" content="https://sanam.me/sanam.webp" />
     <meta property="og:locale" content="en_US" />
 
     <!-- Twitter Card -->
@@ -42,15 +39,12 @@
       name="twitter:description"
       content="Senior Software Developer from Nepal with 6+ years experience in FinTech, .NET, and Database Administration."
     />
-    <meta
-      name="twitter:image"
-      content="https://sanampakuwal.com.np/preview.jpg"
-    />
+    <meta name="twitter:image" content="https://sanam.me/sanam.webp" />
     <meta name="twitter:creator" content="@sanampakuwal" />
 
-    <title>
-      Sanam Pakuwal - Senior Software Developer | FinTech & .NET Expert
-    </title>
+    <title>Sanam Pakuwal - Software Developer</title>
+
+    <link rel="icon" href="/sanam-ico.png" type="image/png" />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -600,7 +594,7 @@
           <!-- Status -->
           <div class="status-indicator">
             <div class="status-dot"></div>
-            <span>Available for opportunities</span>
+            <span>Available for collaboration</span>
           </div>
 
           <!-- Main Title -->
@@ -620,7 +614,8 @@
             <div class="skills-grid">
               <span class="skill-badge">.NET Architecture</span>
               <span class="skill-badge">Database Administration</span>
-              <span class="skill-badge">FinTech Solutions</span>
+              <span class="skill-badge">FinTech</span>
+              <span class="skill-badge">eCommerce</span>
               <span class="skill-badge">Performance Optimization</span>
               <span class="skill-badge">AI/API Integration</span>
               <span class="skill-badge">Quality Assurance</span>
@@ -712,7 +707,7 @@
 
                 <div class="connect-item">
                   <div class="connect-info">
-                    <div class="connect-icon">🐦</div>
+                    <div class="connect-icon">🕊️</div>
                     <div class="connect-details">
                       <h4>X / Twitter</h4>
                       <p>@sanampakuwal</p>
@@ -738,7 +733,7 @@
                     href="https://bsky.app/profile/sanam.me"
                     target="_blank"
                     class="connect-link"
-                    >Sky</a
+                    >Fly</a
                   >
                 </div>
 
@@ -769,7 +764,7 @@
           <div class="gif-container">
             <img
               id="floatingGif"
-              src="https://i.gifer.com/7VE.gif"
+              src="sanam.webp"
               alt="Developer at work"
               loading="eager"
             />
@@ -789,65 +784,5 @@
         Status
       </a>
     </div>
-
-    <script>
-      const gifs = [
-        "https://i.gifer.com/7VE.gif",
-        "https://i.gifer.com/XSNt.gif",
-      ];
-
-      const statusMessages = [
-        "Currently architecting solutions that make other developers question their life choices",
-        "Turning business requirements into elegant code and occasional existential crises",
-        "Database whisperer by day, performance optimization ninja by night",
-        "Certified in Stripe, SQL, and the art of making things work when they shouldn't",
-        "6+ years of turning 'it works on my machine' into 'it works everywhere'",
-        "From Nepal with love, spreading the gospel of clean code and proper error handling",
-        "Professional bug creator and occasional bug fixer since 2017",
-        "Making databases cry tears of joy with perfectly optimized queries",
-      ];
-
-      // Initialize GIF
-      const gifElement = document.getElementById("floatingGif");
-      let currentGifIndex = 0;
-
-      // GIF cycling
-      setInterval(() => {
-        currentGifIndex = (currentGifIndex + 1) % gifs.length;
-        gifElement.style.opacity = "0.6";
-        setTimeout(() => {
-          gifElement.src = gifs[currentGifIndex];
-          gifElement.style.opacity = "1";
-        }, 300);
-      }, 10000);
-
-      // Interactive subtitle - fixed to not interfere with text selection
-      const subtitle = document.getElementById("subtitle");
-      const originalText = subtitle.textContent;
-      let isClicked = false;
-
-      subtitle.addEventListener("click", (e) => {
-        // Don't trigger if user is selecting text
-        if (window.getSelection().toString().length > 0) return;
-        if (isClicked) return;
-
-        isClicked = true;
-        subtitle.classList.add("clicked");
-        const randomMessage =
-          statusMessages[Math.floor(Math.random() * statusMessages.length)];
-        subtitle.textContent = randomMessage;
-
-        setTimeout(() => {
-          subtitle.classList.remove("clicked");
-          subtitle.textContent = originalText;
-          isClicked = false;
-        }, 4000);
-      });
-
-      // Mobile optimization
-      if (window.innerWidth <= 768) {
-        document.body.style.overflowY = "auto";
-      }
-    </script>
   </body>
 </html>
