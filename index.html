@@ -49,6 +49,7 @@
     />
 
     <style>
+      /* Global Styles */
       * {
         box-sizing: border-box;
         margin: 0;
@@ -73,7 +74,7 @@
         position: relative;
       }
 
-      /* Background elements */
+      /* Background Effects */
       .bg-element {
         position: fixed;
         border-radius: 50%;
@@ -136,6 +137,7 @@
         z-index: -1;
       }
 
+      /* Layout */
       .container {
         max-width: 1200px;
         margin: 0 auto;
@@ -152,6 +154,7 @@
         min-height: 80vh;
       }
 
+      /* Content Components */
       .content-section {
         animation: fadeInUp 0.8s ease-out;
       }
@@ -187,6 +190,7 @@
         animation: statusPulse 2s ease-in-out infinite;
       }
 
+      /* Typography */
       .main-title {
         font-size: clamp(2rem, 6vw, 2.75rem);
         font-weight: 700;
@@ -363,9 +367,10 @@
         margin-left: 0.5rem;
       }
 
+      /* Right Column - Image & CV */
       .floating-gif {
         display: flex;
-        justify-content: center;
+        flex-direction: column;
         align-items: center;
         animation: fadeInUp 0.8s ease-out 0.7s both;
       }
@@ -373,6 +378,7 @@
       .gif-container {
         position: relative;
         transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        margin-bottom: 1.5rem;
       }
 
       .gif-container::before {
@@ -410,6 +416,70 @@
 
       .gif-container:hover img {
         box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+      }
+
+      /* CV Button */
+      .cv-button-container {
+        animation: fadeInUp 0.6s ease-out 0.9s both;
+      }
+
+      .cv-button {
+        background: rgba(30, 41, 59, 0.8);
+        border: 1px solid rgba(71, 85, 105, 0.3);
+        color: #cbd5e1;
+        padding: 0.75rem 1.5rem;
+        border-radius: 1rem;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 0.875rem;
+        backdrop-filter: blur(20px);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .cv-button::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(
+          45deg,
+          rgba(251, 191, 36, 0.05),
+          rgba(59, 130, 246, 0.05),
+          rgba(251, 191, 36, 0.05)
+        );
+        opacity: 0;
+        transition: opacity 0.3s ease;
+      }
+
+      .cv-button:hover::before {
+        opacity: 1;
+      }
+
+      .cv-button:hover {
+        background: rgba(51, 65, 85, 0.9);
+        border-color: rgba(251, 191, 36, 0.4);
+        transform: translateY(-2px);
+        color: #fbbf24;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+      }
+
+      .cv-icon {
+        font-size: 1rem;
+        transition: transform 0.3s ease;
+      }
+
+      .cv-button:hover .cv-icon {
+        transform: scale(1.1);
+      }
+
+      .cv-text {
+        font-weight: 500;
+        letter-spacing: 0.025em;
       }
 
       .status-link {
@@ -501,13 +571,12 @@
         }
       }
 
-      /* Selection styling */
+      /* Utility Styles */
       ::selection {
         background: rgba(251, 191, 36, 0.2);
         color: #fff;
       }
 
-      /* Focus styles for accessibility */
       a:focus,
       button:focus {
         outline: 2px solid #fbbf24;
@@ -530,12 +599,35 @@
           order: -1;
         }
 
+        .gif-container {
+          margin-bottom: 1rem;
+        }
+
         .gif-container img {
           max-width: 280px;
         }
 
+        .cv-button {
+          padding: 0.625rem 1.25rem;
+          font-size: 0.8rem;
+        }
+
         .connect-grid {
           grid-template-columns: 1fr;
+        }
+
+        .connect-item {
+          text-align: left;
+          justify-content: flex-start;
+          padding: 0.875rem 1rem;
+        }
+
+        .connect-info {
+          flex: 1;
+        }
+
+        .connect-details {
+          text-align: left;
         }
 
         .connect-item:nth-child(odd) {
@@ -564,12 +656,13 @@
           justify-content: center;
         }
 
-        .connect-item {
-          padding: 0.875rem 1rem;
-        }
-
         .status-button {
           padding: 0.5rem 0.875rem;
+          font-size: 0.75rem;
+        }
+
+        .cv-button {
+          padding: 0.5rem 1rem;
           font-size: 0.75rem;
         }
       }
@@ -753,7 +846,7 @@
           </div>
         </div>
 
-        <!-- Floating GIF -->
+        <!-- Right Column -->
         <div class="floating-gif">
           <div class="gif-container">
             <img
@@ -762,6 +855,19 @@
               alt="Developer at work"
               loading="eager"
             />
+          </div>
+
+          <!-- CV Button -->
+          <div class="cv-button-container">
+            <a
+              href="https://drive.google.com/file/d/1dNAKW0Nq0kDhKvULKJvqTeDlYwiAha3e/view"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="cv-button"
+            >
+              <span class="cv-icon">📄</span>
+              <span class="cv-text">View CV</span>
+            </a>
           </div>
         </div>
       </div>
