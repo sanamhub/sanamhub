@@ -1,0 +1,32 @@
+name: refresh
+
+# Once a day: redraw the contribution graph and pull the newest blog posts into the README. Commits
+# only when something changed, as github-actions[bot], so these commits do not count as Sanam's.
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/contributions.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: node scripts/posts.mjs
+      - name: Commit when something changed
+        run: |
+          git add -A assets README.md
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh contributions and posts"
+          git push

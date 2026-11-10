@@ -1,15 +1,16 @@
-<!-- introduction -->
-<h1 align="center">Hi, I'm Sanam Pakuwal 👋</h1>
-
+<!-- header: drawn by scripts/header.mjs -->
 <p align="center">
-  <b>Technical Lead · Software Engineer</b><br/>
-  .NET · SQL Server · Distributed Systems · AI<br/>
-  Kathmandu, Nepal 🇳🇵
+  <a href="https://sanam.me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+      <img src="assets/header-light.svg" width="100%" alt="Sanam Pakuwal. Technical Lead, .NET, distributed systems, AI. Kathmandu to Singapore." />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  I lead engineering for an e-commerce platform in Singapore, from Kathmandu. By day that means<br/>
-  .NET, SQL Server and search that carry real traffic. The rest of the time I build my own<br/>
+  I lead engineering for an e-commerce platform in Singapore, from Kathmandu. By day that means
+  .NET, SQL Server and search that carry real traffic. The rest of the time I build my own
   products, most of them for Nepal: its calendar, its roads.
 </p>
 
@@ -33,6 +34,18 @@
     <td align="center"><b>38,800+</b><br/><sub>NuGet downloads of NepDate</sub></td>
   </tr>
 </table>
+
+<br/>
+
+<!-- contributions: redrawn daily by .github/workflows/refresh.yml -->
+<p align="center">
+  <a href="https://github.com/sanamhub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+      <img src="assets/contributions-light.svg" width="100%" alt="GitHub contributions in the last year" />
+    </picture>
+  </a>
+</p>
 
 <br/>
 
@@ -163,9 +176,11 @@
 <!-- writing -->
 <h3 align="center">Writing</h3>
 
-- [Rate limiting in ASP.NET Core](https://sanam.me/blog/rate-limiting-aspnetcore/)
-- [Cutting search latency from seconds to under 100ms](https://sanam.me/blog/search-latency-opensearch/)
-- [Taking a single-region app to multi-region with SQL Server](https://sanam.me/blog/multi-region-sql-server/)
+<!-- posts:start -->
+- [Rate limiting in ASP.NET Core](https://sanam.me/blog/rate-limiting-aspnetcore/) <sub>Oct 9, 2026</sub>
+- [Cutting search latency from seconds to under 100ms](https://sanam.me/blog/search-latency-opensearch/) <sub>Sep 20, 2026</sub>
+- [Taking a single-region app to multi-region with SQL Server](https://sanam.me/blog/multi-region-sql-server/) <sub>Aug 15, 2026</sub>
+<!-- posts:end -->
 
 <p align="center"><a href="https://sanam.me/blog/">All posts</a> · <a href="https://sanam.me/rss.xml">RSS</a></p>
 
