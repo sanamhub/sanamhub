@@ -3,15 +3,15 @@
   <a href="https://sanam.me">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-      <img src="assets/header-light.svg" width="100%" alt="Sanam Pakuwal. Technical Lead, .NET, distributed systems, AI. Kathmandu to Singapore." />
+      <img src="assets/header-light.svg" width="100%" alt="Sanam Pakuwal. Technical Lead, .NET, distributed systems, AI. Nepal." />
     </picture>
   </a>
 </p>
 
 <p align="center">
-  I lead engineering for an e-commerce platform in Singapore, from Kathmandu. By day that means
-  .NET, SQL Server and search that carry real traffic. The rest of the time I build my own
-  products, most of them for Nepal: its calendar, its roads.
+  I design distributed systems, make databases fast, and lead the engineers who run them.
+  The rest of the time I build my own products: a Nepali calendar in 14 programming languages,
+  desktop and mobile apps, and tools I wanted to exist.
 </p>
 
 <p align="center">
@@ -28,10 +28,10 @@
 <!-- numbers -->
 <table align="center">
   <tr>
-    <td align="center"><b>7 yrs</b><br/><sub>engineering, DBA and QA</sub></td>
-    <td align="center"><b>&lt;100 ms</b><br/><sub>product search, down from 1 to 2 s</sub></td>
-    <td align="center"><b>450+</b><br/><sub>institutions served by a FinTech platform I worked on</sub></td>
-    <td align="center"><b>38,800+</b><br/><sub>NuGet downloads of NepDate</sub></td>
+    <td align="center"><b>7 yrs</b><br/><sub>building and running production systems</sub></td>
+    <td align="center"><b>13</b><br/><sub>languages I have written NepDate in</sub></td>
+    <td align="center"><b>60</b><br/><sub>open source repositories</sub></td>
+    <td align="center"><b>6</b><br/><sub>products of my own, shipped or in beta</sub></td>
   </tr>
 </table>
 
@@ -57,7 +57,7 @@
     <td colspan="2">
       <a href="https://nepdate.com"><img src="assets/projects/nepdate.webp" width="100%" alt="NepDate: Nepali dates, the same in every language" /></a>
       <h4><img src="assets/logos/nepdate.svg" width="20" height="20" alt="" /> <a href="https://nepdate.com">NepDate</a></h4>
-      Bikram Sambat, the Nepali calendar, for 14 programming languages. One dataset and one spec, so every language gives the same day for the same date. 13.5 ns per conversion in C#.<br/>
+      Bikram Sambat, the Nepali calendar, for 14 programming languages. One dataset and one spec, so every language gives the same day for the same date. I wrote the ports for 13 of them and co-maintain the C# original by Raju Prasai.<br/>
       <sub>C# · TypeScript · Python · PHP · Java · Dart · Kotlin · Go · Swift · C++ · C · Rust · Ruby · Zig &nbsp;|&nbsp; <a href="https://github.com/sanamhub/nepdate">source</a></sub>
     </td>
   </tr>
@@ -72,7 +72,7 @@
       <a href="https://patro.nepdate.com"><img src="assets/projects/patro.webp" width="100%" alt="NepDate Patro on Android" /></a>
       <h4><img src="assets/logos/patro.svg" width="20" height="20" alt="" /> <a href="https://patro.nepdate.com">NepDate Patro</a></h4>
       A Nepali calendar for Android and iPhone with home and lock screen widgets. No ads, no account, no network permission.<br/>
-      <sub>Kotlin · Swift · apps coming soon, web live · <a href="https://github.com/sanamhub/nepdate-mobile">source</a></sub>
+      <sub>Kotlin · Swift · web live, Android in closed beta, iPhone in progress · <a href="https://github.com/sanamhub/nepdate-mobile">source</a></sub>
     </td>
   </tr>
   <tr>
@@ -80,21 +80,21 @@
       <a href="https://batosathi.com"><img src="assets/projects/batosathi.webp" width="100%" alt="Batosathi" /></a>
       <h4><img src="assets/logos/batosathi.svg" width="20" height="20" alt="" /> <a href="https://batosathi.com">Batosathi</a></h4>
       Road and weather alerts for a trip across Nepal. It watches your route and dates, and messages you when the answer changes.<br/>
-      <sub>C# · ASP.NET Core · closed beta</sub>
+      <sub>C# · ASP.NET Core · PostgreSQL · closed beta</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://curioflux.com"><img src="assets/projects/curioflux.webp" width="100%" alt="Curioflux" /></a>
       <h4><img src="assets/logos/curioflux.svg" width="20" height="20" alt="" /> <a href="https://curioflux.com">Curioflux</a></h4>
       A self-hosted knowledge base. Send a link from your phone; it archives the page, links it to what you saved, and answers coding agents over MCP.<br/>
-      <sub>C# · SQLite FTS5 · MCP</sub>
+      <sub>C# · SQLite FTS5 · React · MCP · in daily use</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://sluicedrop.com"><img src="assets/projects/sluice.webp" width="100%" alt="Sluice" /></a>
       <h4><img src="assets/logos/sluice.svg" width="20" height="20" alt="" /> <a href="https://sluicedrop.com">Sluice</a></h4>
-      Send big files straight to another computer. Every block checked as it lands, transfers resume, nothing stored in between.<br/>
-      <sub>Rust · <code>brew install sanamhub/tap/sluice</code> · <a href="https://github.com/sanamhub/sluice">source</a></sub>
+      Send big files straight to another computer over QUIC. Every block checked as it lands, transfers resume, a growing file can be read live, and nothing is stored in between.<br/>
+      <sub>Rust · v0.1.0 · <code>brew install sanamhub/tap/sluice</code> · <a href="https://github.com/sanamhub/sluice">source</a></sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/projects/rsservice.webp" width="100%" alt="RsService dashboard" />
@@ -108,13 +108,13 @@
       <img src="assets/projects/lms.webp" width="100%" alt="LMS" />
       <h4>LMS</h4>
       Learning management system with video content protection and S3 storage.<br/>
-      <sub>C# · ASP.NET Core</sub>
+      <sub>C# · ASP.NET Core · PostgreSQL · Redis · S3 · Docker</sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/projects/gymhub.webp" width="100%" alt="GymHub" />
       <h4>GymHub</h4>
       Gym management app: members, attendance tracking and admin workflows.<br/>
-      <sub>C# · .NET MAUI</sub>
+      <sub>C# · .NET MAUI · PostgreSQL · Docker</sub>
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@
       <img src="assets/projects/eattendance.webp" width="100%" alt="eAttendance" />
       <h4>eAttendance</h4>
       Attendance tracking system with per-site licensing.<br/>
-      <sub>C#</sub>
+      <sub>C# · ASP.NET Core · PostgreSQL</sub>
     </td>
     <td width="50%" valign="middle" align="center">
       <a href="https://sanam.me/#projects"><b>All projects on sanam.me</b></a><br/>
@@ -134,14 +134,14 @@
 <br/>
 
 <!-- libraries -->
-<h3 align="center">Open source libraries</h3>
+<h3 align="center">Libraries and tools</h3>
 
 | Library | What it does | |
 | --- | --- | --- |
 | [postgresql-to-mssql](https://github.com/sanamhub/postgresql-to-mssql) | Stream PostgreSQL data into SQL Server on the fly, for migrations without downtime | ![stars](https://img.shields.io/github/stars/sanamhub/postgresql-to-mssql?style=flat-square&label=%E2%98%85&color=24292f) |
 | [DotNetMapper](https://github.com/sanamhub/DotNetMapper) | The simplest .NET object mapper, at hand-written speed | ![stars](https://img.shields.io/github/stars/sanamhub/DotNetMapper?style=flat-square&label=%E2%98%85&color=24292f) ![NuGet](https://img.shields.io/nuget/dt/DotNetMapper?style=flat-square&label=NuGet&color=24292f) |
 | [ada-csharp](https://github.com/sanamhub/ada-csharp) | Fast WHATWG-compliant URL parser for .NET, built on Ada | ![stars](https://img.shields.io/github/stars/sanamhub/ada-csharp?style=flat-square&label=%E2%98%85&color=24292f) ![NuGet](https://img.shields.io/nuget/dt/Ada.Url?style=flat-square&label=NuGet&color=24292f) |
-| [mcp-nuget](https://github.com/sanamhub/mcp-nuget) | Model Context Protocol server shipped as a NuGet tool | ![stars](https://img.shields.io/github/stars/sanamhub/mcp-nuget?style=flat-square&label=%E2%98%85&color=24292f) |
+| [mcp-nuget](https://github.com/sanamhub/mcp-nuget) | A sample Model Context Protocol server published as a NuGet tool | ![stars](https://img.shields.io/github/stars/sanamhub/mcp-nuget?style=flat-square&label=%E2%98%85&color=24292f) |
 | [hulaki](https://github.com/sanamhub/hulaki) | One API for chat, push, email and social delivery, with an honest answer per recipient | ![stars](https://img.shields.io/github/stars/sanamhub/hulaki?style=flat-square&label=%E2%98%85&color=24292f) |
 | [jharicast](https://github.com/sanamhub/jharicast) | Per-route, per-day weather and road rules for Nepal | ![stars](https://img.shields.io/github/stars/sanamhub/jharicast?style=flat-square&label=%E2%98%85&color=24292f) |
 | [freetiermail](https://github.com/sanamhub/freetiermail) | Route email across provider free tiers, about 900 a day | ![stars](https://img.shields.io/github/stars/sanamhub/freetiermail?style=flat-square&label=%E2%98%85&color=24292f) |
@@ -153,10 +153,10 @@
 <!-- about -->
 <h3 align="center">At work</h3>
 
-- Technical Lead at **Singapore Ecommerce App Pte. Ltd.**, remote. I own architecture, code review standards and the platform's AI adoption.
+- Technical Lead at **Singapore Ecommerce App Pte. Ltd.** I own architecture, code review standards and the platform's AI adoption.
 - Took the platform from single region to multi-region in production: SQL Server replication to regional read replicas, cross-region cache invalidation, OpenSearch cross-cluster replication.
 - Cut product search from 1 to 2 s to under 100 ms, and a second endpoint from 5 to 20 s to under 80 ms, by moving it onto OpenSearch.
-- Before that, at Pratham IT System (2019 to 2023): developer on FinAstra, a cooperative core banking platform used by 450+ institutions, and at the same time QA manager and DBA for its SQL Server and PostgreSQL estate.
+- Before that, at Pratham IT System (2019 to 2023): developer on FinAstra, a core banking platform for cooperatives, and at the same time QA manager and DBA for its SQL Server and PostgreSQL estate.
 - **Stripe Certified Professional Developer** (2023) · **Google AI Professional Certificate** (2026)
 
 <br/>
