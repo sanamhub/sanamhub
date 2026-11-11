@@ -4,20 +4,24 @@
 
 import { writeFileSync } from 'node:fs';
 
+// The palette of sanam.me. No background: the banner sits on GitHub's own page colour in each theme.
 const themes = {
-  light: { bg: '#fbfaf7', ink: '#18181b', muted: '#5b5b66', line: '#e4e2dc', accent: '#b45309', hill: '#ece7dd', hill2: '#e2dbcd', city: '#d9d4c9', stupa: '#b9ae9b', snow: '#ffffff', sky: '#f3efe6' },
-  dark: { bg: '#0d1117', ink: '#f0f6fc', muted: '#9198a1', line: '#262c36', accent: '#f0a93b', hill: '#161b22', hill2: '#1c232d', city: '#222b36', stupa: '#3c4756', snow: '#c9d1d9', sky: '#11161d' },
+  light: { ink: '#18181b', muted: '#52525b', line: '#d6d3cd', accent: '#b45309', hill: '#ece7dd', hill2: '#e2dbcd', city: '#d9d4c9', stupa: '#b9ae9b', snow: '#ffffff', eye: '#ffffff' },
+  dark: { ink: '#fafafa', muted: '#a1a1aa', line: '#30363d', accent: '#fbbf24', hill: '#161b22', hill2: '#1c232d', city: '#222b36', stupa: '#3c4756', snow: '#c9d1d9', eye: '#0d1117' },
 };
+
+// The wave under the site's header: one period is 48 units. The amber part is the "you are here".
+const wave = (from, to) => `M${from} 291 ` + Array.from({ length: (to - from) / 24 }, (_, i) => `q12 ${i % 2 ? 7 : -7} 24 0`).join(' ');
 
 function svg(t) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Sanam Pakuwal</title>
   <desc id="desc">Technical Lead. Nepal and Singapore, a packet travelling the link between the two.</desc>
   <style>
-    .name { font: 700 64px "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; letter-spacing: -1.5px; fill: ${t.ink}; }
-    .role { font: 500 22px "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; fill: ${t.muted}; }
-    .tag { font: 600 15px ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; fill: ${t.accent}; }
-    .city { font: 600 13px "Segoe UI", -apple-system, BlinkMacSystemFont, Arial, sans-serif; fill: ${t.muted}; letter-spacing: .4px; }
+    .name { font: 700 64px Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; letter-spacing: -1.5px; fill: ${t.ink}; }
+    .role { font: 500 22px Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; fill: ${t.muted}; }
+    .tag { font: 600 20px ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; fill: ${t.accent}; }
+    .city { font: 600 13px Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, Arial, sans-serif; fill: ${t.muted}; letter-spacing: .4px; }
     .link { fill: none; stroke: ${t.accent}; stroke-width: 2; stroke-dasharray: 2 8; stroke-linecap: round; animation: flow 1.6s linear infinite; }
     .star { fill: ${t.accent}; opacity: .0; animation: twinkle 5s ease-in-out infinite; }
     .cloud { fill: ${t.hill2}; animation: drift 38s linear infinite; }
@@ -26,14 +30,14 @@ function svg(t) {
     @keyframes drift { from { transform: translateX(-60px); } to { transform: translateX(60px); } }
     @media (prefers-reduced-motion: reduce) { .link, .star, .cloud { animation: none; } .packet { display: none; } }
   </style>
-  <rect width="1200" height="300" rx="18" fill="${t.bg}"/>
-  <rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="${t.line}"/>
+  <path d="${wave(0, 1200)}" fill="none" stroke="${t.line}" stroke-width="1.5"/>
+  <path d="${wave(0, 432)}" fill="none" stroke="${t.accent}" stroke-width="2" stroke-linecap="round"/>
 
   <!-- Name and role -->
-  <text class="tag" x="64" y="92">~/nepal</text>
-  <text class="name" x="60" y="160">Sanam Pakuwal</text>
-  <text class="role" x="64" y="200">Technical Lead · .NET, distributed systems, AI</text>
-  <text class="role" x="64" y="232" style="font-size:18px">Distributed systems by day, my own products the rest of the time.</text>
+  <text class="tag" x="64" y="88">&lt;/&gt;</text>
+  <text class="name" x="60" y="156">Sanam Pakuwal</text>
+  <text class="role" x="64" y="196">Software Engineer · Technical Lead</text>
+  <text class="role" x="64" y="228" style="font-size:18px">Distributed systems at work, my own products the rest of the time.</text>
 
   <!-- Scene: Nepal (hills, Himalaya, a stupa) and Singapore (waterfront towers), one link -->
   <g transform="translate(700 0)">
@@ -60,8 +64,8 @@ function svg(t) {
       <rect x="87" y="186" width="16" height="12" rx="1.5"/>
       <path d="M89 187 L95 160 L101 187 Z"/>
     </g>
-    <path d="M90 192 q2 -2 4 0 M96 192 q2 -2 4 0" stroke="${t.bg}" stroke-width="1.2" fill="none"/>
-    <text class="city" x="44" y="284">NEPAL</text>
+    <path d="M90 192 q2 -2 4 0 M96 192 q2 -2 4 0" stroke="${t.eye}" stroke-width="1.2" fill="none"/>
+    <text class="city" x="44" y="276">NEPAL</text>
 
     <!-- Singapore waterfront: towers and a three-tower hotel with a deck, generic shapes -->
     <g fill="${t.city}">
@@ -75,7 +79,7 @@ function svg(t) {
       <rect x="452" y="186" width="22" height="50"/>
     </g>
     <path d="M300 238 C350 232 420 232 480 238 L480 262 L300 262 Z" fill="${t.hill}"/>
-    <text class="city" x="350" y="284">SINGAPORE</text>
+    <text class="city" x="350" y="276">SINGAPORE</text>
 
     <!-- The link -->
     <path id="route" class="link" d="M95 158 C170 40 300 40 351 128"/>

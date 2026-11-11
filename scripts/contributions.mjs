@@ -33,9 +33,10 @@ for (let i = days.length - 1; i >= 0; i--) {
 }
 const busiest = days.reduce((a, b) => (b.contributionCount > a.contributionCount ? b : a));
 
+// The palette of sanam.me. No fill behind the graph: it sits on GitHub's page colour in each theme.
 const themes = {
-  light: { bg: '#fbfaf7', line: '#e4e2dc', ink: '#18181b', muted: '#5b5b66', levels: ['#ece9e2', '#f6d9a8', '#eeb35e', '#d4861f', '#a65d05'] },
-  dark: { bg: '#0d1117', line: '#262c36', ink: '#f0f6fc', muted: '#9198a1', levels: ['#161b22', '#4a3410', '#8a5a14', '#c8841f', '#f2b04a'] },
+  light: { line: '#d6d3cd', ink: '#18181b', muted: '#52525b', levels: ['#ece9e2', '#f6d9a8', '#eeb35e', '#d4861f', '#b45309'] },
+  dark: { line: '#30363d', ink: '#fafafa', muted: '#a1a1aa', levels: ['#161b22', '#4a3410', '#8a5a14', '#d1901c', '#fbbf24'] },
 };
 // Quartiles of the non-zero days decide the levels, so one huge day does not flatten the rest.
 const nz = days.map((d) => d.contributionCount).filter(Boolean).sort((a, b) => a - b);
@@ -70,7 +71,7 @@ function svg(t) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="t">
   <title id="t">${fmt.format(cal.totalContributions)} GitHub contributions in the last year</title>
   <style>
-    text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    text { font-family: Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
     .big { font-size: 26px; font-weight: 700; fill: ${t.ink}; }
     .s { font-size: 14px; fill: ${t.muted}; }
     .k { font-size: 14px; font-weight: 600; fill: ${t.ink}; }
@@ -79,7 +80,7 @@ function svg(t) {
     @keyframes in { from { opacity: 0; transform: translateY(4px); } }
     @media (prefers-reduced-motion: reduce) { rect[style] { animation: none; } }
   </style>
-  <rect x=".5" y=".5" width="${width - 1}" height="${height - 1}" rx="16" fill="${t.bg}" stroke="${t.line}"/>
+  <rect x=".5" y=".5" width="${width - 1}" height="${height - 1}" rx="16" fill="none" stroke="${t.line}"/>
   <text class="big" x="${X0}" y="46">${fmt.format(cal.totalContributions)}</text>
   <text class="s" x="${X0}" y="66">contributions in the last year</text>
   <text class="s" x="${width - 24}" y="40" text-anchor="end">Longest streak <tspan class="k">${longest} days</tspan>   ·   Current <tspan class="k">${current} days</tspan></text>
