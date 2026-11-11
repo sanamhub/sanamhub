@@ -66,11 +66,11 @@ What I build in my own time. Most of it started as something I needed, and a lot
 #### Client work
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/rsservice-dark.svg" /><img src="assets/cards/rsservice-light.svg" width="49.5%" alt="RsService, client work. Service centre platform. C#, ASP.NET Core, SQL Server." /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/lms-dark.svg" /><img src="assets/cards/lms-light.svg" width="49.5%" alt="LMS, client work. Learning management system with protected video. C#, ASP.NET Core, PostgreSQL, Redis, S3, Docker." /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/rsservice-dark.svg" /><img src="assets/cards/rsservice-light.svg" width="49.5%" alt="RsService, client work, in production. Service centre platform. C#, ASP.NET Core, SQL Server." /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/gymhub-dark.svg" /><img src="assets/cards/gymhub-light.svg" width="49.5%" alt="GymHub, client work, in production. Gym management app: members, attendance and admin workflows. C#, .NET MAUI, PostgreSQL, Docker." /></picture>
 </p>
 
-<sub>Also GymHub, a gym management app on .NET MAUI, and eAttendance, attendance tracking with per-site licensing. More on [sanam.me](https://sanam.me/#projects).</sub>
+<sub>Also an LMS with protected video, and eAttendance, attendance tracking with per-site licensing. Experience, credentials and the rest are on [sanam.me](https://sanam.me).</sub>
 
 ### Libraries and tools
 
@@ -85,18 +85,6 @@ What I build in my own time. Most of it started as something I needed, and a lot
 | [freetiermail](https://github.com/sanamhub/freetiermail) | Route email across provider free tiers, about 900 a day | ![stars](https://img.shields.io/github/stars/sanamhub/freetiermail?style=flat-square&label=%E2%98%85&color=b45309) |
 | [typesafe-dotnet](https://github.com/sanamhub/typesafe-dotnet) | .NET client for the TypeSafe AI System One API | ![stars](https://img.shields.io/github/stars/sanamhub/typesafe-dotnet?style=flat-square&label=%E2%98%85&color=b45309) |
 | [passgen](https://github.com/sanamhub/passgen) | Password generator with a public API | ![stars](https://img.shields.io/github/stars/sanamhub/passgen?style=flat-square&label=%E2%98%85&color=b45309) |
-
-### Experience
-
-**Singapore Ecommerce App Pte. Ltd.** · Apr 2023 to present
-
-- **Technical Lead**, Aug 2026 to present. I own technical direction: architecture decisions, critical code review, engineering standards, and the platform's AI adoption.
-- **Senior Software Developer**, May 2025 to Aug 2026. Led the move from single region to multi-region, now in production. Moved product search onto OpenSearch, from 1 to 2 s down to under 100 ms.
-- **Software Developer**, Apr 2023 to May 2025. Rewrote the public product API as a new service with the same contract on the wire.
-
-**Pratham IT System Pvt. Ltd.** · Mar 2019 to Apr 2023
-
-- **Software Developer, QA Manager and DBA.** Developer on FinAstra, a core banking platform for cooperatives. Built the QA function from scratch and ran SQL Server and PostgreSQL in production.
 
 ### Writing
 
@@ -113,18 +101,18 @@ What I build in my own time. Most of it started as something I needed, and a lot
 <!-- stack: drawn by scripts/cards.mjs -->
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" /><img src="assets/stack-light.svg" width="100%" alt="Backend and distributed systems: C#, .NET, Redis, RabbitMQ, Docker. Databases and search: SQL Server, PostgreSQL, OpenSearch. Products of my own: Rust, TypeScript, Kotlin, Swift, Astro. Also JavaScript, React, Next.js, Tailwind CSS, Python, Go, Elasticsearch, OpenTelemetry, Grafana, Nginx, Linux, Azure, Cloudflare, GitHub Actions, Playwright and more." /></picture></p>
 
-### Credentials
-
-- [Google AI Professional Certificate](https://coursera.org/verify/professional-cert/8ZFU9Y9LKGD9), Google, 2026
-- [Stripe Certified Professional Developer](https://www.credential.net/385122f3-0f52-46aa-8592-fb9f1391ca57#acc.xSeQUDvw), Stripe, 2023
-- Outstanding Performance Award, Pratham IT System, 2023
-- [SQL (Advanced)](https://www.hackerrank.com/certificates/8df301ade891), HackerRank, 2022
-- Bachelor of Computer Applications, Manipal University Jaipur, 2026
+<!-- cat -->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="A cat typing on a laptop" />
+</p>
 
 <!-- footer -->
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" width="100%" alt="" /></picture></p>
-
-<p align="center">
-  <sub>Made in Nepal, on the road as often as at a desk. धन्यवाद for reading this far.</sub><br/>
+<div align="center">
+  <samp>
+    ════ ⋆★⋆ ════
+    <br/>
+    धन्यवाद · thanks for stopping by
+  </samp>
+  <br/>
   <a href="https://sanam.me">sanam.me</a>
-</p>
+</div>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="560" viewBox="0 0 600 560" role="img" aria-labelledby="t d">
   <title id="t">RsService</title>
-  <desc id="d">Client work. Service centre platform: service requests, customers, RMA, warranty and revenue reports. C# · ASP.NET Core · SQL Server</desc>
+  <desc id="d">Client work, in production. Service centre platform: service requests, customers, RMA, warranty and revenue reports. C# · ASP.NET Core · SQL Server</desc>
   <style>
     text { font-family: Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
     .name { font-size: 27px; font-weight: 700; letter-spacing: -.4px; fill: #fafafa; }
@@ -17,8 +17,8 @@
   <path d="M0 315H600" stroke="#30363d"/>
   
   <text class="name" x="28" y="359">RsService</text>
-  <circle cx="34" cy="387" r="5" fill="#a1a1aa"/>
-  <text class="status" x="48" y="393">Client work</text>
+  <circle cx="34" cy="387" r="5" fill="#22c55e"/>
+  <text class="status" x="48" y="393">Client work, in production</text>
   <text class="body" x="28" y="429">Service centre platform: service requests, customers,</text><text class="body" x="28" y="456">RMA, warranty and revenue reports.</text>
   <text class="tech" x="28" y="534">C# · ASP.NET Core · SQL Server</text>
   <rect x=".75" y=".75" width="598.5" height="558.5" rx="18" fill="none" stroke="#30363d" stroke-width="1.5"/>

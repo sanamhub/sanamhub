@@ -1,4 +1,4 @@
-// Writes the stat strip, the project cards and the divider of the profile README, each in a light
+// Writes the stat strip, the project cards and the stack of the profile README, each in a light
 // and a dark version, in the look of sanam.me. Run after editing: node scripts/cards.mjs.
 // A card carries its picture inside the SVG as a data URI, because an SVG shown through <img>
 // may not load other files.
@@ -79,14 +79,14 @@ const projects = [
     tech: 'C# · ASP.NET Core · PostgreSQL',
   },
   {
-    id: 'rsservice', name: 'RsService', tone: 'client', status: 'Client work',
+    id: 'rsservice', name: 'RsService', tone: 'live', status: 'Client work, in production',
     text: 'Service centre platform: service requests, customers, RMA, warranty and revenue reports.',
     tech: 'C# · ASP.NET Core · SQL Server',
   },
   {
-    id: 'lms', name: 'LMS', tone: 'client', status: 'Client work',
-    text: 'Learning management system with protected video and S3 storage.',
-    tech: 'C# · ASP.NET Core · PostgreSQL · Redis · S3 · Docker',
+    id: 'gymhub', name: 'GymHub', mark: 'gymhub.svg', tone: 'live', status: 'Client work, in production',
+    text: 'Gym management app: members, attendance tracking and admin workflows.',
+    tech: 'C# · .NET MAUI · PostgreSQL · Docker',
   },
 ];
 
@@ -94,7 +94,10 @@ const logoType = (file) => (file.endsWith('.svg') ? 'image/svg+xml' : 'image/web
 
 function card(p, t, theme) {
   const W = 600, H = 560, IMG = 315;
-  const shot = dataUri(`projects/${p.id}-${theme}.webp`, 'image/webp');
+  // A project with no screenshot shows its mark on a plain field instead.
+  const cover = p.mark
+    ? `<rect width="${W}" height="${IMG}" fill="${t.soft}" clip-path="url(#c)"/><image href="${dataUri(`logos/${p.mark}`, logoType(p.mark))}" x="${W / 2 - 70}" y="${IMG / 2 - 70}" width="140" height="140"/>`
+    : `<image href="${dataUri(`projects/${p.id}-${theme}.webp`, 'image/webp')}" x="0" y="0" width="${W}" height="${IMG}" preserveAspectRatio="xMidYMin slice" clip-path="url(#c)"/>`;
   const nameX = p.logo ? 62 : 28;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-labelledby="t d">
   <title id="t">${esc(p.name)}</title>
@@ -102,7 +105,7 @@ function card(p, t, theme) {
   ${style(t)}
   <clipPath id="c"><rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="18"/></clipPath>
   <rect x=".75" y=".75" width="${W - 1.5}" height="${H - 1.5}" rx="18" fill="${t.card}"/>
-  <image href="${shot}" x="0" y="0" width="${W}" height="${IMG}" preserveAspectRatio="xMidYMin slice" clip-path="url(#c)"/>
+  ${cover}
   <path d="M0 ${IMG}H${W}" stroke="${t.line}"/>
   ${p.logo ? `<image href="${dataUri(`logos/${p.logo}`, logoType(p.logo))}" x="28" y="${IMG + 22}" width="26" height="26"/>` : ''}
   <text class="name" x="${nameX}" y="${IMG + 44}">${esc(p.name)}</text>
@@ -158,16 +161,6 @@ function stats(t, total) {
   <text class="num" x="${i * col + (i ? 36 : 4)}" y="62">${esc(n)}</text>
   <text class="lab" x="${i * col + (i ? 36 : 4)}" y="92">${a}</text>
   <text class="lab" x="${i * col + (i ? 36 : 4)}" y="113">${b}</text>`).join('')}
-</svg>
-`;
-}
-
-// The wave under the site's header, as the rule above the sign-off.
-function divider(t) {
-  const wave = (from, to) => `M${from} 10 ` + Array.from({ length: (to - from) / 24 }, (_, i) => `q12 ${i % 2 ? 7 : -7} 24 0`).join(' ');
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="20" viewBox="0 0 1200 20" role="presentation">
-  <path d="${wave(0, 1200)}" fill="none" stroke="${t.line}" stroke-width="1.5"/>
-  <path d="${wave(384, 816)}" fill="none" stroke="${t.accent}" stroke-width="2" stroke-linecap="round"/>
 </svg>
 `;
 }
@@ -238,7 +231,6 @@ mkdirSync(asset('cards/'), { recursive: true });
 for (const [theme, t] of Object.entries(themes)) {
   for (const p of projects) writeFileSync(asset(`cards/${p.id}-${theme}.svg`), (p.wide ? wideCard : card)(p, t, theme));
   writeFileSync(asset(`stats-${theme}.svg`), stats(t, total));
-  writeFileSync(asset(`divider-${theme}.svg`), divider(t));
   writeFileSync(asset(`stack-${theme}.svg`), stack(t, theme));
 }
-console.log(`wrote ${projects.length} cards, the stat strip, the stack and the divider, light and dark`);
+console.log(`wrote ${projects.length} cards, the stat strip and the stack, light and dark`);
