@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Sanam Pakuwal</title>
-  <desc id="desc">Technical Lead. Kathmandu to Singapore, a packet travelling the link between the two cities.</desc>
+  <desc id="desc">Technical Lead. Nepal and Singapore, a packet travelling the link between the two.</desc>
   <style>
     .name { font: 700 64px "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; letter-spacing: -1.5px; fill: #f0f6fc; }
     .role { font: 500 22px "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; fill: #9198a1; }
@@ -18,12 +18,12 @@
   <rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#262c36"/>
 
   <!-- Name and role -->
-  <text class="tag" x="64" y="92">~/kathmandu → singapore</text>
+  <text class="tag" x="64" y="92">~/nepal</text>
   <text class="name" x="60" y="160">Sanam Pakuwal</text>
   <text class="role" x="64" y="200">Technical Lead · .NET, distributed systems, AI</text>
-  <text class="role" x="64" y="232" style="font-size:18px">Remote from Kathmandu, for a team in Singapore.</text>
+  <text class="role" x="64" y="232" style="font-size:18px">Distributed systems by day, my own products the rest of the time.</text>
 
-  <!-- Scene: Kathmandu (hills, Himalaya, a stupa) and Singapore (waterfront towers), one link -->
+  <!-- Scene: Nepal (hills, Himalaya, a stupa) and Singapore (waterfront towers), one link -->
   <g transform="translate(700 0)">
     <g class="cloud"><ellipse cx="140" cy="70" rx="34" ry="9"/><ellipse cx="380" cy="52" rx="26" ry="7"/></g>
     <circle class="star" cx="300" cy="40" r="2" style="animation-delay:-1s"/>
@@ -49,7 +49,7 @@
       <path d="M89 187 L95 160 L101 187 Z"/>
     </g>
     <path d="M90 192 q2 -2 4 0 M96 192 q2 -2 4 0" stroke="#0d1117" stroke-width="1.2" fill="none"/>
-    <text class="city" x="44" y="284">KATHMANDU</text>
+    <text class="city" x="44" y="284">NEPAL</text>
 
     <!-- Singapore waterfront: towers and a three-tower hotel with a deck, generic shapes -->
     <g fill="#222b36">
