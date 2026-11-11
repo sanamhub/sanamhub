@@ -21,6 +21,7 @@ jobs:
       - run: node scripts/contributions.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: node scripts/cards.mjs
       - run: node scripts/posts.mjs
       - name: Commit when something changed
         run: |

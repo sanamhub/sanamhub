@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="150" viewBox="0 0 1220 150" role="img" aria-labelledby="t">
+  <title id="t">7 yrs building and running production systems. 13 languages I have written NepDate in. 60 open source repositories. 3,829 contributions on GitHub in the last year</title>
+  <style>
+    text { font-family: Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .name { font-size: 27px; font-weight: 700; letter-spacing: -.4px; fill: #18181b; }
+    .kick { font-size: 16px; font-weight: 600; fill: #b45309; }
+    .status { font-size: 16px; fill: #52525b; }
+    .body { font-size: 18px; fill: #52525b; }
+    .tech { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; font-size: 14.5px; fill: #b45309; }
+    .num { font-size: 34px; font-weight: 700; letter-spacing: -.6px; fill: #18181b; }
+    .lab { font-size: 15px; fill: #52525b; }
+  </style>
+  <path d="M0 1H1220M0 149H1220" stroke="#d6d3cd"/>
+  
+  <text class="num" x="4" y="62">7 yrs</text>
+  <text class="lab" x="4" y="92">building and running</text>
+  <text class="lab" x="4" y="113">production systems</text><path d="M305 28V122" stroke="#d6d3cd"/>
+  <text class="num" x="341" y="62">13</text>
+  <text class="lab" x="341" y="92">languages I have</text>
+  <text class="lab" x="341" y="113">written NepDate in</text><path d="M610 28V122" stroke="#d6d3cd"/>
+  <text class="num" x="646" y="62">60</text>
+  <text class="lab" x="646" y="92">open source</text>
+  <text class="lab" x="646" y="113">repositories</text><path d="M915 28V122" stroke="#d6d3cd"/>
+  <text class="num" x="951" y="62">3,829</text>
+  <text class="lab" x="951" y="92">contributions on GitHub</text>
+  <text class="lab" x="951" y="113">in the last year</text>
+</svg>

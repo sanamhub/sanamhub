@@ -8,13 +8,9 @@
   </a>
 </p>
 
-<p align="center">
-  I design distributed systems, make databases fast, and lead the engineers who run them.
-  The rest of the time I build my own products: a Nepali calendar in 14 programming languages,
-  desktop and mobile apps, and tools I wanted to exist.
-</p>
+I design distributed systems, make databases fast, and lead the engineers who run them. Away from work I build my own products: a Nepali calendar in 14 programming languages, desktop and mobile apps, and tools I wanted to exist.
 
-<p align="center">
+<p>
   <a href="https://sanam.me"><b>sanam.me</b></a> ·
   <a href="https://sanam.me/sanam-cv.pdf">CV</a> ·
   <a href="mailto:sanampakuwal27@gmail.com">Email</a> ·
@@ -25,22 +21,18 @@
   <a href="https://sanampakuwal.t.me">Telegram</a>
 </p>
 
-<br/>
+<!-- numbers: drawn by scripts/cards.mjs -->
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" /><img src="assets/stats-light.svg" width="100%" alt="7 years building and running production systems. NepDate written in 13 languages. 60 open source repositories." /></picture></p>
 
-<!-- numbers -->
-<table align="center">
-  <tr>
-    <td align="center"><b>7 yrs</b><br/><sub>building and running production systems</sub></td>
-    <td align="center"><b>13</b><br/><sub>languages I have written NepDate in</sub></td>
-    <td align="center"><b>60</b><br/><sub>open source repositories</sub></td>
-    <td align="center"><b>6</b><br/><sub>products of my own, shipped or in beta</sub></td>
-  </tr>
-</table>
+### Now
 
-<br/>
+- **Building:** [Sluice](https://sluicedrop.com), a Rust tool that sends big files straight from one computer to another. 0.1.0 is out; the work now is the road to 1.0.
+- **Shipping:** NepDate Patro for Android, in closed beta, with the iPhone app next. MitiBar 1.1.0 went out on 10 November 2026.
+- **At work:** technical direction for a multi-region e-commerce platform, and how it adopts AI.
+- **Using daily:** [Curioflux](https://curioflux.com), my self-hosted knowledge base, to keep what I read and hand it to coding agents over MCP.
 
 <!-- contributions: redrawn daily by .github/workflows/refresh.yml -->
-<p align="center">
+<p>
   <a href="https://github.com/sanamhub">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
@@ -49,82 +41,38 @@
   </a>
 </p>
 
-<br/>
+### Projects
 
-<!-- products -->
-<h3 align="center">Things I make</h3>
+What I build in my own time. Most of it started as something I needed, and a lot of it is for Nepal.
 
-<table>
-  <tr>
-    <td colspan="2">
-      <a href="https://nepdate.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/nepdate-dark.webp" /><img src="assets/projects/nepdate-light.webp" width="100%" alt="NepDate: Nepali dates, the same in every language" /></picture></a>
-      <h4><img src="assets/logos/nepdate.svg" width="20" height="20" alt="" /> <a href="https://nepdate.com">NepDate</a></h4>
-      Bikram Sambat, the Nepali calendar, for 14 programming languages. One dataset and one spec, so every language gives the same day for the same date. I wrote the ports for 13 of them and co-maintain the C# original by Raju Prasai.<br/>
-      <sub>C# · TypeScript · Python · PHP · Java · Dart · Kotlin · Go · Swift · C++ · C · Rust · Ruby · Zig &nbsp;|&nbsp; <a href="https://github.com/sanamhub/nepdate">source</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://nepdate.com/mitibar/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/mitibar-dark.webp" /><img src="assets/projects/mitibar-light.webp" width="100%" alt="MitiBar" /></picture></a>
-      <h4><img src="assets/logos/mitibar.webp" width="20" height="20" alt="" /> <a href="https://nepdate.com/mitibar/">MitiBar</a></h4>
-      The Nepali date on your desktop: a bar above the Windows taskbar, the tray or menu bar everywhere, the month one click away.<br/>
-      <sub>Rust · Windows, macOS, Linux · <a href="https://github.com/sanamhub/mitibar">source</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://patro.nepdate.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/patro-dark.webp" /><img src="assets/projects/patro-light.webp" width="100%" alt="NepDate Patro, the Nepali calendar on the web" /></picture></a>
-      <h4><img src="assets/logos/patro.svg" width="20" height="20" alt="" /> <a href="https://patro.nepdate.com">NepDate Patro</a></h4>
-      A Nepali calendar for Android and iPhone with home and lock screen widgets. No ads, no account, no network permission.<br/>
-      <sub>Kotlin · Swift · web live, Android in closed beta, iPhone in progress · <a href="https://github.com/sanamhub/nepdate-mobile">source</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://batosathi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/batosathi-dark.webp" /><img src="assets/projects/batosathi-light.webp" width="100%" alt="Batosathi" /></picture></a>
-      <h4><img src="assets/logos/batosathi.svg" width="20" height="20" alt="" /> <a href="https://batosathi.com">Batosathi</a></h4>
-      Road and weather alerts for a trip across Nepal. It watches your route and dates, and messages you when the answer changes.<br/>
-      <sub>C# · ASP.NET Core · PostgreSQL · closed beta</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://curioflux.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/curioflux-dark.webp" /><img src="assets/projects/curioflux-light.webp" width="100%" alt="Curioflux" /></picture></a>
-      <h4><img src="assets/logos/curioflux.svg" width="20" height="20" alt="" /> <a href="https://curioflux.com">Curioflux</a></h4>
-      A self-hosted knowledge base. Send a link from your phone; it archives the page, links it to what you saved, and answers coding agents over MCP.<br/>
-      <sub>C# · SQLite FTS5 · React · MCP · in daily use</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://sluicedrop.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/sluice-dark.webp" /><img src="assets/projects/sluice-light.webp" width="100%" alt="Sluice" /></picture></a>
-      <h4><img src="assets/logos/sluice.svg" width="20" height="20" alt="" /> <a href="https://sluicedrop.com">Sluice</a></h4>
-      Send big files straight to another computer over QUIC. Every block checked as it lands, transfers resume, a growing file can be read live, and nothing is stored in between.<br/>
-      <sub>Rust · v0.1.0 · <code>brew install sanamhub/tap/sluice</code> · <a href="https://github.com/sanamhub/sluice">source</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/rsservice-dark.webp" /><img src="assets/projects/rsservice-light.webp" width="100%" alt="RsService dashboard" /></picture>
-      <h4>RsService</h4>
-      Service center platform: service requests, customers, RMA, warranty and revenue reports.<br/>
-      <sub>C# · ASP.NET Core · SQL Server</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/lms-dark.webp" /><img src="assets/projects/lms-light.webp" width="100%" alt="LMS" /></picture>
-      <h4>LMS</h4>
-      Learning management system with video content protection and S3 storage.<br/>
-      <sub>C# · ASP.NET Core · PostgreSQL · Redis · S3 · Docker</sub>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <a href="https://sanam.me/#projects"><b>All projects on sanam.me</b></a><br/>
-      <sub>and every repository on <a href="https://github.com/sanamhub?tab=repositories">GitHub</a></sub>
-    </td>
-  </tr>
-</table>
+<!-- cards: drawn by scripts/cards.mjs -->
+<p><a href="https://nepdate.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/nepdate-dark.svg" /><img src="assets/cards/nepdate-light.svg" width="100%" alt="NepDate, 1.0 release candidate. Bikram Sambat, the Nepali calendar, for 14 programming languages from one dataset and one spec. I wrote the ports for 13 of them and co-maintain the C# original by Raju Prasai." /></picture></a></p>
 
-<p align="center"><sub>Client work also includes GymHub, a gym management app on .NET MAUI, and eAttendance, attendance tracking with per-site licensing.</sub></p>
+<p>
+  <a href="https://patro.nepdate.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/patro-dark.svg" /><img src="assets/cards/patro-light.svg" width="49.5%" alt="NepDate Patro. Live. The Nepali calendar in a browser, every month from BS 1901 to 2199. Astro, TypeScript, Cloudflare Workers." /></picture></a>
+  <a href="https://nepdate.com/mitibar/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mitibar-dark.svg" /><img src="assets/cards/mitibar-light.svg" width="49.5%" alt="MitiBar v1.1.0 for Windows, macOS and Linux. The Nepali date on your desktop. Rust." /></picture></a>
+</p>
+<p>
+  <a href="https://github.com/sanamhub/nepdate-mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mobile-dark.svg" /><img src="assets/cards/mobile-light.svg" width="49.5%" alt="NepDate Patro for Android and iPhone. Android in closed beta, iPhone in progress. Kotlin, Jetpack Compose, Swift, SwiftUI." /></picture></a>
+  <a href="https://sluicedrop.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/sluice-dark.svg" /><img src="assets/cards/sluice-light.svg" width="49.5%" alt="Sluice v0.1.0. Send big files straight to another computer over QUIC. Rust." /></picture></a>
+</p>
+<p>
+  <a href="https://curioflux.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/curioflux-dark.svg" /><img src="assets/cards/curioflux-light.svg" width="49.5%" alt="Curioflux. A self-hosted knowledge base that answers coding agents over MCP. C#, SQLite FTS5, React." /></picture></a>
+  <a href="https://batosathi.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/batosathi-dark.svg" /><img src="assets/cards/batosathi-light.svg" width="49.5%" alt="Batosathi, closed beta. Road and weather alerts for a trip across Nepal. C#, ASP.NET Core, PostgreSQL." /></picture></a>
+</p>
 
-<br/>
+<sub>Source: [nepdate](https://github.com/sanamhub/nepdate) · [mitibar](https://github.com/sanamhub/mitibar) · [nepdate-mobile](https://github.com/sanamhub/nepdate-mobile) · [sluice](https://github.com/sanamhub/sluice) (`brew install sanamhub/tap/sluice`)</sub>
 
-<!-- libraries -->
-<h3 align="center">Libraries and tools</h3>
+#### Client work
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/rsservice-dark.svg" /><img src="assets/cards/rsservice-light.svg" width="49.5%" alt="RsService, client work. Service centre platform. C#, ASP.NET Core, SQL Server." /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/lms-dark.svg" /><img src="assets/cards/lms-light.svg" width="49.5%" alt="LMS, client work. Learning management system with protected video. C#, ASP.NET Core, PostgreSQL, Redis, S3, Docker." /></picture>
+</p>
+
+<sub>Also GymHub, a gym management app on .NET MAUI, and eAttendance, attendance tracking with per-site licensing. More on [sanam.me](https://sanam.me/#projects).</sub>
+
+### Libraries and tools
 
 | Library | What it does | |
 | --- | --- | --- |
@@ -138,33 +86,19 @@
 | [typesafe-dotnet](https://github.com/sanamhub/typesafe-dotnet) | .NET client for the TypeSafe AI System One API | ![stars](https://img.shields.io/github/stars/sanamhub/typesafe-dotnet?style=flat-square&label=%E2%98%85&color=b45309) |
 | [passgen](https://github.com/sanamhub/passgen) | Password generator with a public API | ![stars](https://img.shields.io/github/stars/sanamhub/passgen?style=flat-square&label=%E2%98%85&color=b45309) |
 
-<br/>
+### Experience
 
-<!-- about -->
-<h3 align="center">At work</h3>
+**Singapore Ecommerce App Pte. Ltd.** · Apr 2023 to present
 
-- Technical Lead at **Singapore Ecommerce App Pte. Ltd.** I own architecture, code review standards and the platform's AI adoption.
-- Took the platform from single region to multi-region in production: SQL Server replication to regional read replicas, cross-region cache invalidation, OpenSearch cross-cluster replication.
-- Cut product search from 1 to 2 s to under 100 ms, and a second endpoint from 5 to 20 s to under 80 ms, by moving it onto OpenSearch.
-- Before that, at Pratham IT System (2019 to 2023): developer on FinAstra, a core banking platform for cooperatives, and at the same time QA manager and DBA for its SQL Server and PostgreSQL estate.
-- **Stripe Certified Professional Developer** (2023) · **Google AI Professional Certificate** (2026)
+- **Technical Lead**, Aug 2026 to present. I own technical direction: architecture decisions, critical code review, engineering standards, and the platform's AI adoption.
+- **Senior Software Developer**, May 2025 to Aug 2026. Led the move from single region to multi-region, now in production. Moved product search onto OpenSearch, from 1 to 2 s down to under 100 ms.
+- **Software Developer**, Apr 2023 to May 2025. Rewrote the public product API as a new service with the same contract on the wire.
 
-<br/>
+**Pratham IT System Pvt. Ltd.** · Mar 2019 to Apr 2023
 
-<!-- stack -->
-<h3 align="center">Tools I reach for</h3>
+- **Software Developer, QA Manager and DBA.** Developer on FinAstra, a core banking platform for cooperatives. Built the QA function from scratch and ran SQL Server and PostgreSQL in production.
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,rabbitmq,elasticsearch,grafana,docker,linux,azure&perline=10&theme=dark" /><img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,rabbitmq,elasticsearch,grafana,docker,linux,azure&perline=10&theme=light" alt="C#, .NET, PostgreSQL, Redis, RabbitMQ, Elasticsearch, Grafana, Docker, Linux, Azure" /></picture><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,rust,kotlin,swift,git,githubactions,cloudflare&perline=10&theme=dark" /><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,rust,kotlin,swift,git,githubactions,cloudflare&perline=10&theme=light" alt="TypeScript, React, Next.js, Tailwind CSS, Rust, Kotlin, Swift, Git, GitHub Actions, Cloudflare" /></picture>
-</p>
-
-<p align="center"><sub>Also SQL Server, OpenSearch, Garnet, OpenTelemetry, Playwright, and RAG, MCP and agents on systems already in production.</sub></p>
-
-<br/>
-
-<!-- writing -->
-<h3 align="center">Writing</h3>
+### Writing
 
 <!-- posts:start -->
 - [Rate limiting in ASP.NET Core](https://sanam.me/blog/rate-limiting-aspnetcore/) <sub>Oct 9, 2026</sub>
@@ -172,11 +106,24 @@
 - [Taking a single-region app to multi-region with SQL Server](https://sanam.me/blog/multi-region-sql-server/) <sub>Aug 15, 2026</sub>
 <!-- posts:end -->
 
-<p align="center"><a href="https://sanam.me/blog/">All posts</a> · <a href="https://sanam.me/rss.xml">RSS</a></p>
+[All posts](https://sanam.me/blog/) · [RSS](https://sanam.me/rss.xml)
 
-<br/>
+### What I work with
+
+<!-- stack: drawn by scripts/cards.mjs -->
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" /><img src="assets/stack-light.svg" width="100%" alt="Backend and distributed systems: C#, .NET, Redis, RabbitMQ, Docker. Databases and search: SQL Server, PostgreSQL, OpenSearch. Products of my own: Rust, TypeScript, Kotlin, Swift, Astro. Also JavaScript, React, Next.js, Tailwind CSS, Python, Go, Elasticsearch, OpenTelemetry, Grafana, Nginx, Linux, Azure, Cloudflare, GitHub Actions, Playwright and more." /></picture></p>
+
+### Credentials
+
+- [Google AI Professional Certificate](https://coursera.org/verify/professional-cert/8ZFU9Y9LKGD9), Google, 2026
+- [Stripe Certified Professional Developer](https://www.credential.net/385122f3-0f52-46aa-8592-fb9f1391ca57#acc.xSeQUDvw), Stripe, 2023
+- Outstanding Performance Award, Pratham IT System, 2023
+- [SQL (Advanced)](https://www.hackerrank.com/certificates/8df301ade891), HackerRank, 2022
+- Bachelor of Computer Applications, Manipal University Jaipur, 2026
 
 <!-- footer -->
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" /><img src="assets/divider-light.svg" width="100%" alt="" /></picture></p>
+
 <p align="center">
   <sub>Made in Nepal, on the road as often as at a desk. धन्यवाद for reading this far.</sub><br/>
   <a href="https://sanam.me">sanam.me</a>
